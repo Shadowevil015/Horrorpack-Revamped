@@ -1,0 +1,14 @@
+name = "Backpacks!"
+filename = "backpacks 1.12.2 - 3.5.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3162/787/backpacks 1.12.2 - 3.5.12.jar"
+hash-format = "murmur2"
+hash = "2560811880"
+
+[update]
+[update.curseforge]
+file-id = 3162787
+project-id = 223957
+release-channel = "beta"

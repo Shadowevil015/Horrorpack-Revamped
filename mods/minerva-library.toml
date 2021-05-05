@@ -1,0 +1,14 @@
+name = "Minerva Library"
+filename = "minerva-library-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2728/693/minerva-library-1.0.13.jar"
+hash-format = "murmur2"
+hash = "1004323453"
+
+[update]
+[update.curseforge]
+file-id = 2728693
+project-id = 311561
+release-channel = "beta"

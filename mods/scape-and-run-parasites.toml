@@ -1,0 +1,14 @@
+name = "Scape and Run: Parasites"
+filename = "SRParasites-1.12.2v1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3024/491/SRParasites-1.12.2v1.8.2.jar"
+hash-format = "murmur2"
+hash = "2037203021"
+
+[update]
+[update.curseforge]
+file-id = 3024491
+project-id = 348025
+release-channel = "beta"

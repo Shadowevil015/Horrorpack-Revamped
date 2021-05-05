@@ -1,0 +1,14 @@
+name = "AbyssalCraft"
+filename = "AbyssalCraft-1.12.2-2.0.0-ALPHA-3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3260/661/AbyssalCraft-1.12.2-2.0.0-ALPHA-3.jar"
+hash-format = "murmur2"
+hash = "3367473759"
+
+[update]
+[update.curseforge]
+file-id = 3260661
+project-id = 53686
+release-channel = "beta"

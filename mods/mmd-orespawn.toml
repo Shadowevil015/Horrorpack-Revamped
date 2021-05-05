@@ -1,0 +1,14 @@
+name = "MMD OreSpawn"
+filename = "OreSpawn-1.12-3.3.1.179.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2913/786/OreSpawn-1.12-3.3.1.179.jar"
+hash-format = "murmur2"
+hash = "3185002728"
+
+[update]
+[update.curseforge]
+file-id = 2913786
+project-id = 245586
+release-channel = "beta"

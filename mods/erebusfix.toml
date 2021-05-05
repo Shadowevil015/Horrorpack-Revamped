@@ -1,0 +1,14 @@
+name = "ErebusFix"
+filename = "erebusfix-1.12.2-0.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3024/769/erebusfix-1.12.2-0.0.0.1.jar"
+hash-format = "murmur2"
+hash = "241500322"
+
+[update]
+[update.curseforge]
+file-id = 3024769
+project-id = 400488
+release-channel = "beta"

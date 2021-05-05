@@ -1,0 +1,14 @@
+name = "Max Potion ID Extender"
+filename = "maxpotidext-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2817/842/maxpotidext-1.0.3.jar"
+hash-format = "murmur2"
+hash = "2264380058"
+
+[update]
+[update.curseforge]
+file-id = 2817842
+project-id = 303759
+release-channel = "beta"
