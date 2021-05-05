@@ -1,0 +1,12 @@
+name = "Horrorpack Revamped"
+author = "Shadowevil015"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ba584cb844517e03353f0e911085fdf7fffaa5f6390edf86a36a85662b5d2973"
+
+[versions]
+forge = "14.23.5.2855"
+minecraft = "1.12.2"
