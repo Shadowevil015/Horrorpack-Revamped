@@ -1,1486 +1,764 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Albedo.cfg"
-hash = "91cf29e8986a82175575bc13555dd8cebdf760451412887f6240b4dab1c99d23"
+file = "mods/YARCF-0.14(1.12.2).jar"
+hash = "bb6cc50d46a2add252c66ff9320a7b6b79627d333f816fed98bde0ffc96930e2"
 
 [[files]]
-file = "config/CoroUtil/BlockDestruction.cfg"
-hash = "49bb4e07052eecee39bb2d92d0ba716c72f7a095ff6cb3bd3b3fc77908ba525e"
-
-[[files]]
-file = "config/CoroUtil/DynamicDifficulty.cfg"
-hash = "953c30600256051ee6a99eb98b80bf4f5ce45d2048be912b1a5c8a11f57be8e0"
-
-[[files]]
-file = "config/CoroUtil/General.cfg"
-hash = "f4b230382d68c8940a882be7792e6df54224f23ac40672e4dcc7fc696be104ba"
-
-[[files]]
-file = "config/CoroUtil/data/filehashes.txt"
-hash = "f654163cfe3ffc022d23d59b78dcc9be3f663647c6fbd79c20cdb04269c693d3"
-
-[[files]]
-file = "config/CoroUtil/data/loot_tables/testloot.json"
-hash = "9979424d661a014bbce3e092f242cf860ef0437c8174d841fb0d1323081282fa"
-
-[[files]]
-file = "config/CoroUtil/data/loot_tables/testlootboss.json"
-hash = "dc5954fae1d1f8f52af20290f1f45e6c66889d9db5855129e7ffe820fdb4da77"
-
-[[files]]
-file = "config/CoroUtil/data/templates/actions/mob_spawns.json"
-hash = "3100ef62f40c71ab180a059d0ec1d5769399298e7130afb48f2eaba4183cf2fe"
-
-[[files]]
-file = "config/CoroUtil/data/templates/actions/mob_spawns_example_commented.json"
-hash = "ab6b6f5fd664347b64fa0f5356b30b54fb00538adb23cca16fba62c3705a8ece"
-
-[[files]]
-file = "config/CoroUtil/data/templates/actions/mob_spawns_testing_miners.json"
-hash = "cebda00491a291ab518a705d9e153dfc37e8695fb3da67b2338cf484860c95be"
-
-[[files]]
-file = "config/CoroUtil/data/templates/cmods/all_cmods.json"
-hash = "ce35546355152e0dd1b18329b2126173d73bd9181cbcaaa2858cc42e024e0268"
-
-[[files]]
-file = "config/CoroUtil/data/templates/cmods/invasions_cmods.json"
-hash = "9d4b0e0ec28bb9c33b31d3b5062cd64305d6962a36a3fd6b3a85e42e10c77f71"
-
-[[files]]
-file = "config/CoroUtil/data/templates/conditions/all_conditions.json"
-hash = "20164199b627e8c06a2ab4e0d0b6241e0b8aa1633cee143c913ae8adf4487cd1"
-
-[[files]]
-file = "config/CoroUtil/data/templates/conditions/invasions_stages.json"
-hash = "4a49dc36831303f93230819fe5fc7791236405217007ae71e5efc1b427cf3914"
-
-[[files]]
-file = "config/DeadlyMonsters.cfg"
-hash = "b56603e8e25d11494c61a364a839a819319c0be9e3d9e6a7d9a9e8cdfd6e2795"
-
-[[files]]
-file = "config/Fishs_Undead_Rising.cfg"
-hash = "eb78fc4f5d72712972447a04755f1508641aa9dc0342d57287eaf01b76bd1a7a"
-
-[[files]]
-file = "config/Guide-API/Guide-API.cfg"
-hash = "a8a8c4819d15fd36665b10367b85929e1dd3beeb3fd7daf72701a3873f7a40a3"
-
-[[files]]
-file = "config/HW_Invasions/InvasionConfig.cfg"
-hash = "5f0eb06e133876a8843007ff5972e62d1c9e86867f25a03eefbd99e21fccd213"
-
-[[files]]
-file = "config/InvTweaks.cfg"
-hash = "c40e9fe47f6e70b840a84ff281aaa6fa0b1f1eacd541576ae4f5204f11d5154e"
-
-[[files]]
-file = "config/InvTweaksRules.txt"
-hash = "b63870bb7b08cb7edb1189dd929ae802a8e7a6857ede3d92055038a5c617bb22"
-
-[[files]]
-file = "config/InvTweaksTree.txt"
-hash = "5dbafa1e67c70c79660a4da7a663fabfda69724ec352f79d5d4ab5e0323368e8"
-
-[[files]]
-file = "config/MoreOverlays.cfg"
-hash = "081814e142c935f474b4cc84e33f8ddd090857843d5a7d0924dd09c17e866f3c"
-
-[[files]]
-file = "config/SRParasites.cfg"
-hash = "65b63463f8c9eea66dd250c77b7e1729c87a1b87e40dc190182389ce117b596e"
-
-[[files]]
-file = "config/Waystones.cfg"
-hash = "da8901b3a34c6b64668fa5ccccd169a29ba87e8fed06b557a8baa1561ffa309a"
-
-[[files]]
-file = "config/Weeping Angels.cfg"
-hash = "ec919262789a42abdcbc9d5dae80d70126592285456bf157c5016e7aac908ed3"
-
-[[files]]
-file = "config/ZombieAwareness/ClientConfig.cfg"
-hash = "fd1550e1a048c1aebc583b237be13dae2c752d0b868c4be406035ab239e66360"
-
-[[files]]
-file = "config/ZombieAwareness/Features.cfg"
-hash = "e86efc8e4bbc03eb75d0d71449f92b593cf17d1a7a26859f6e1198bb38c82f32"
-
-[[files]]
-file = "config/ZombieAwareness/General.cfg"
-hash = "2ae53c84a1322eb9854789e981f43ee3979ac4fad77e41335acb125dadd39461"
-
-[[files]]
-file = "config/ZombieAwareness/MobLists.cfg"
-hash = "ee860da3d3e8d5ed7d36743bdd115faf497b79a992654938239fd8c6618df36a"
-
-[[files]]
-file = "config/ZombieAwareness/PlayerRulesAndLists.cfg"
-hash = "c78fa9dda9717f0eea667d891c4afb0406e5c507a4d128e4782add5c0ea30801"
-
-[[files]]
-file = "config/ZombieAwareness/Spawning.cfg"
-hash = "7911cc423f710989620679619888dbd9b0ce14fb65b0b62e409d67468441bcab"
-
-[[files]]
-file = "config/abyssalcraft.cfg"
-hash = "ff685b4286dad0c21269c6b104a8fbb870185c54fea4acca1bb08d1dd8a4538e"
-
-[[files]]
-file = "config/acintegration.cfg"
-hash = "3c881864f7651f08997c2bf2b887d1120dc7c513bd7e54252a91df53da77b99f"
-
-[[files]]
-file = "config/antiqueatlas/antiqueatlas.cfg"
-hash = "5caab332b0ba70cbd33fdcb0c9f46266616a0b44e7124c7cef43f7c02d7854f8"
-
-[[files]]
-file = "config/antiqueatlas/atlas_overlay.cfg"
-hash = "92397aa4b5caa4cb321f5999df906baa646aafb75867b5cf6ffc6ee2f8e90dc3"
-
-[[files]]
-file = "config/antiqueatlas/biome_textures.json"
-hash = "e90d4b31b484c0e65a4393daeeb7b4f8ab25cf6312261f8222eedcba01939391"
-
-[[files]]
-file = "config/antiqueatlas/markers.json"
-hash = "789f211738813f3ba5ace9d0548fd6a277ee59bee0acad60521371bda8628f8c"
-
-[[files]]
-file = "config/antiqueatlas/texture_sets.json"
-hash = "c92fad76623beceae72f6ec7dbe2d6d51b19a1f1aba90948f54f945493cb41da"
-
-[[files]]
-file = "config/antiqueatlas/tile_textures.json"
-hash = "5706d365f7e9591f8c414d2d5a93fb025c49ec8d9524cf214369687b02b06f73"
-
-[[files]]
-file = "config/antiqueatlas/tileids.json"
-hash = "deb6b25f78b1a614a6f0fb1a044cc2e743034fe7efe5dc5dc47fd3c518efdb61"
-
-[[files]]
-file = "config/appleskin.cfg"
-hash = "27fdd990f5cc4d5f8da3a8cd189a26dc50158edfd32ac633a9b82729c33ad317"
-
-[[files]]
-file = "config/armorchroma.cfg"
-hash = "972b92f90fff46975e77a6baf42f67fe19b0d256b5cb7076a5b4d2b8cec0f128"
-
-[[files]]
-file = "config/astralsorcery.cfg"
-hash = "f7bf5e53fe9b4f70cf879879cea0a7d6e79eb9986bb1f70fb78d858e9d13bddb"
-
-[[files]]
-file = "config/astralsorcery/aevitas_ore_perk.cfg"
-hash = "6b07d912612fa348a3765283d9373a1a5b3459f2ac4721f56bdd0a0c0e8a4c94"
-
-[[files]]
-file = "config/astralsorcery/amulet_enchantments.cfg"
-hash = "d0bb284e6b621d4a594dc7c7024122a9e1e77451e9149138e44496e595e08753"
-
-[[files]]
-file = "config/astralsorcery/fluid_rarities.cfg"
-hash = "65d8852170d1e1770a725e944b6abcf97e9ab486911dbaa07deba8bc781be612"
-
-[[files]]
-file = "config/astralsorcery/herdable_animals_blacklist.cfg"
-hash = "89afdc1c6ea1f898a960f84d920f34e20d1ec145a9b76a42d19c1b06334f7414"
-
-[[files]]
-file = "config/astralsorcery/mineralis_ritual.cfg"
-hash = "6b07d912612fa348a3765283d9373a1a5b3459f2ac4721f56bdd0a0c0e8a4c94"
-
-[[files]]
-file = "config/astralsorcery/perk_void_trash_replacement.cfg"
-hash = "6b07d912612fa348a3765283d9373a1a5b3459f2ac4721f56bdd0a0c0e8a4c94"
-
-[[files]]
-file = "config/astralsorcery/treasure_shrine.cfg"
-hash = "6b07d912612fa348a3765283d9373a1a5b3459f2ac4721f56bdd0a0c0e8a4c94"
-
-[[files]]
-file = "config/backpacks16840.cfg"
-hash = "f7c7bbe753c0a34dce58345288f3205759102ab4c854e2251091c9d5a1b06666"
-
-[[files]]
-file = "config/baubles.cfg"
-hash = "e508483e8a803419d2600e3135cd0ccb6ea71307e3b20ccefc7943cbde4e1b18"
-
-[[files]]
-file = "config/bettercaves-1_12_2.cfg"
-hash = "c1fe5c753b60dfd38b83b5e92d133d1cc25d5154c15e7542ea825a49815c820c"
-
-[[files]]
-file = "config/betterfoliage.cfg"
-hash = "627601469efc01a5e423f2b197a61b0dfd54aeb6eae1a1d160f55c4da9b394f8"
-
-[[files]]
-file = "config/bettermineshafts-1_12_2.cfg"
-hash = "1e86716ebb2ea5300d81dbe16fed7a5c4738c543d10b0e9b0f540dbb5636e9e3"
-
-[[files]]
-file = "config/bettermineshafts/1_12_2/README.txt"
-hash = "97e5e5d429818dd16cfaa32df50897a9fd56d8bdbf2147494155abda0316b62d"
-
-[[files]]
-file = "config/bettermineshafts/1_12_2/biomeTags.txt"
-hash = "30ab719da2a37f3ac6dc08aa2ba2b654f76175337a1b90587fcd9c0577161f4a"
-
-[[files]]
-file = "config/bettermineshafts/1_12_2/variants.json"
-hash = "6f25eaee188ac4de9f5129b10d6e9fd143a55d5f3514611ea852f3ca6c29a0ff"
-
-[[files]]
-file = "config/bettermineshafts/README.txt"
-hash = "5e4216e07280b8881466f5b1010f8006ff9477054b366a1f4c0b24cba0b8d030"
-
-[[files]]
-file = "config/bhc/BaubleyHeartCanisters.cfg"
-hash = "ffb69f8c21ff88866dbabc44329f8c114ed568054ea7e5e2d367af6d0f536bc4"
-
-[[files]]
-file = "config/bhc/bhc-drops.json"
-hash = "7a6ee211860e15bc7978fb52d70dd95aae47fd8e603a7bea5e544044b361c11c"
-
-[[files]]
-file = "config/bibliocraft.cfg"
-hash = "c1ae1175048cffbadb749be9bb138bbb5623fce16102995a1fa03a7a0c31a1c0"
-
-[[files]]
-file = "config/biomesoplenty/biome_ids.json"
-hash = "661c59b8dc2bf2c4699c8afb1c923cae15c95e71149ca63747914ba682bddfc6"
-
-[[files]]
-file = "config/biomesoplenty/biomes/Put biome config files here"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/alps.json"
-hash = "790145e6eeb051e5af6ea21d2fc74b3123c5e4e09e151e5b97f43eb6222d3b91"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/alps_foothills.json"
-hash = "89d53519c4ce40e56918f7b16e8763a03e968b84bd84c77510d7851d7d9fe554"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/bamboo_forest.json"
-hash = "b1f68e0a4204f4b7b9109652939c21374fb410e73bd96c8e40045f68974e0556"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/bayou.json"
-hash = "75b80b8247b4e3816a0070f39d63ea8259445c55ecef9bf10b6e3290f504e845"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/bog.json"
-hash = "92718f21666441ad013668e87f0637d77dd51ba4bfc6662de1bf787a847348af"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/boreal_forest.json"
-hash = "50a4f1d7cff9a762685e4fcf35274f3ce455ec7ff8489cc9f6cea25a7eaa5258"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/brushland.json"
-hash = "71f11d93097817b70db6aac2e9cf5061770aa9b47ed0043adc2dc46a8e7543f1"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/chaparral.json"
-hash = "09d42ef86176884353b8741eb9d4013957b188eacc10ec630d5b5495196798b8"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/cherry_blossom_grove.json"
-hash = "09d3cf765196d0969110561069d02530c1bdc6eb94810370e5dc1462c3b5323f"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/cold_desert.json"
-hash = "7d1e25944f9a2046c5e6b38ecfcf95714cf84fdd81bfe182e849b65b6a983f15"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/coniferous_forest.json"
-hash = "0c692de9cdea714057aa98121b91b49e4b8ea4bf90c1e45edd6207590bc8e021"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/coral_reef.json"
-hash = "601e99b8b1e1d1af6f8a661cfaf0143c8412eef2682ee25f847e01f67028e23b"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/corrupted_sands.json"
-hash = "068c091f763d59abf7691682544a440513b8d4bc5f708cd4cabae82567d9ff30"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/crag.json"
-hash = "8d7751cdc73e68bcf82c424207e3093805875898541b721075382e5b8d0978f5"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/dead_forest.json"
-hash = "b4660be43dba7947d8c70e12c6f6726091b378f7f6c906cee960d261714ae87a"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/dead_swamp.json"
-hash = "97b942a1bd47f067306893e230201738354a793ed1b4e9ceb9a0f7bdaa870434"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/eucalyptus_forest.json"
-hash = "d0c32e29e87cd055dc8b6557ec4d26d904238366a9be5242bd59d00fc80d63b0"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/fen.json"
-hash = "136f6a6fd7fb10884c322a8c7a77d0dcaef85d984977e1b5d805950c48a5d169"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/flower_field.json"
-hash = "89948cd654e80b6efae201030e21ca9a67ea058b52b62710cd5c51c5bbcc0dd9"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/flower_island.json"
-hash = "9cc2500f351627c18288d60b11794084c1d6181912af84a3e01b51eae1d06a37"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/fungi_forest.json"
-hash = "c18cb529f441f504cf40c8ade1e1dc3e76bf6e4031fb5a0070edcab67ca70c70"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/glacier.json"
-hash = "6502014068d647e2dde226072c2ebe5a66c948c39f94e9ecb5442007cdc14fe5"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/grassland.json"
-hash = "32d674006d832a3166c559ed508cb58a56febd356ffbc874708382a46d51b22f"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/gravel_beach.json"
-hash = "0e2baa55d50561c3fa4544a4bf4d89cc94e12e2c05821052e3b1c41123691920"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/grove.json"
-hash = "ba18e7634d33562214d64b6cec7f19a8649f063a30f8917cc73ad7f259775a63"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/highland.json"
-hash = "d78d48ef927660daae834fcc245679f7417121dd41d0a09bcc16aa09a38fbaf3"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/kelp_forest.json"
-hash = "b9afea1cfaff56044f5283ad541ffa609a035c24823ae2560592e23eac55f76c"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/land_of_lakes.json"
-hash = "2e2af2cb9806b1506b1b8ad1b46ccad4008ab9a224096bbecf128ac9adea9021"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/lavender_fields.json"
-hash = "e3f6ae1aff47b9a1cca63c08910a1516ef426507853f4192b6658003a10a1291"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/lush_desert.json"
-hash = "51c093de2455a99208462011a216b38b254671b459ae5f2b08a6c61dd8c32283"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/lush_swamp.json"
-hash = "2c18252b4cf9c2b85bdafafb134d97e1eaddce2291b2b3d266fcfc23b15e5011"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/mangrove.json"
-hash = "73ad7fde612b92a69aac656148d0bf61b9bfcfc8a7ab09b95f4420155200f2b8"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/maple_woods.json"
-hash = "fe9c5a07f96febf68418e1cad8ca9bf8c8b7695ab24f6252aa45e89cdd320300"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/marsh.json"
-hash = "0c8bd3fc0efa04c6eaf5f2432c95f2542e939e868029de212b4826fd3a9f71a1"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/meadow.json"
-hash = "c37bb2a07fa889e82b10b4237221dd3c2034e07924f63d6de2e97b12c17bcf17"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/moor.json"
-hash = "29965b3a042d029669b8ed8609a7ba7220ba07402e0bee41baf91406239b30b2"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/mountain.json"
-hash = "908d8d246638e8687fdb74f5372fc24c5397a64de4d1f70c11a57dd0bb4b4c32"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/mountain_foothills.json"
-hash = "b0fa34a88944e090e11e52feb30cc2874a0d7bd0c5313b13192e9f77de6dda2c"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/mystic_grove.json"
-hash = "9e23bd0a8053a3e4aec06fead493d3bd9ee464dfd6304d04e2586668bc05ac69"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/oasis.json"
-hash = "10a40f2e4ef66a2b7711c89eb7606ecaaa9632608b6eec4d5c9dfc9cef23ab6c"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/ominous_woods.json"
-hash = "7618e14b49a85dbe67a287f894bf36d8b3c83626a79b89728fc067d09f7d39f8"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/orchard.json"
-hash = "c4780126d677fead36300da5198015b3c132a9b34d60f948c06762b94eebcce2"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/origin_beach.json"
-hash = "a845963c9abec1415d0ce0eec0ba0d9de1d038a53857b87c404d767e61a16f20"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/origin_island.json"
-hash = "8845e1de63122e0ac671192da42d4cc249a3f2d81cd30b2d1d486d9d09f711fb"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/outback.json"
-hash = "d3bb51d1eb21524f5b2561c251e3d0574aa40d060b6f5c1cb3f4963b5be2e528"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/overgrown_cliffs.json"
-hash = "784200b02ce81acf23a2bbcedbd338499c77d522644b7719ce650bc7a85dbec7"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/pasture.json"
-hash = "6f4c4581bb3cb002da6f211c93cd5e7ffbbd560ef45e2d0934fa0f5a002a7bc8"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/phantasmagoric_inferno.json"
-hash = "c9712c0038b6ff0d07ad214b587d13d3b6d73b2112be8d7fffe492d20da38343"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/prairie.json"
-hash = "584445d56448e79b01536ad74c4bb247a2ed7f163180af9a463460b43fecffaa"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/quagmire.json"
-hash = "9b4f64492b17e9a46aa20b2053fe99f43f108f431f15b002fb8c247bca4fbdf1"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/rainforest.json"
-hash = "b175e8abaf8ee1b3b3fb202b302ddf0ab458dc043dfcd17b7ad95e406c63dee4"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest.json"
-hash = "e994a13d6877071d07903e25bb0ef02b612853612ff4451ac3d0d84439099d37"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/redwood_forest_edge.json"
-hash = "62910d6b413db3bee1683f4d90f040f4d89cfb2aab4e6e4f239e2844fe9735de"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/sacred_springs.json"
-hash = "cf7d98e63a6f94095ea49e93ac44ed3846be1e4c57543fac331e91555f00861a"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/seasonal_forest.json"
-hash = "f755b338f46badcfb94bb6c838ba27984c572e5ad7ff0aa4f9428ef9263e0b50"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/shield.json"
-hash = "01031c16200ce8684ffe18a3e07b777344994a9fd455f69c0746ac231727df39"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/shrubland.json"
-hash = "7e1b2e469bb130e8ef2b548586d79abd4864fdc3d5131b2a25edc33529f5614d"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_coniferous_forest.json"
-hash = "821a28acc23c3b92ad763ae93dd42e8911ecbe8463d62d7f308f2a8e714fd14d"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_forest.json"
-hash = "863611bc94dad6e92a1fe8a6a973711cb70aef1cd25906fd2cc40877dfe619a3"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/snowy_tundra.json"
-hash = "c98590276f170007cbfdfe9491d8e94c1949cf6ca171dd98a4697bab1d5dd9d3"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/steppe.json"
-hash = "a4a5a515fa4008596a29db4c2d80e5e80cd34278ac874512bd7b04ca4c2c6b31"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/temperate_rainforest.json"
-hash = "b4997e84d1d7f919510a141112070450aac14a125d1618baec2a708dcd36922f"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_island.json"
-hash = "bde954f498defd87280994f7bae6cd5d7ee067b1456c3f0a07cdf69a8e0624a2"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/tropical_rainforest.json"
-hash = "fa2bd79d2c2db21c59518acab716d2fc9765e14d946e9a5cc97b1da68c7220c8"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/tundra.json"
-hash = "fa0c12baa92df5b17705689414d87153aca9a2b68d387de39d23e4a35f491bda"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/undergarden.json"
-hash = "92e47a500c7fac58aacdd4574ff8427ed4c72e0c712b26aaff5f8317ce07ab19"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/visceral_heap.json"
-hash = "d3a18eaa762abee27a0156446de59856acfd5bc0c576c98dcfcc8504c5c2206b"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/volcanic_island.json"
-hash = "1a91e496b8fb15eb9e8d36d8bf8aefd7b1e7f62ff4f02ffb1ea709f4dfcd1054"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/wasteland.json"
-hash = "e340c93da9cefb86b490dc6d264e2a540a1d06153363c5a06d1def48706a0558"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/wetland.json"
-hash = "77000e430f9f9863ce2682de09f1401a2839207402e8fe2e1bf7da091f3cd049"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/white_beach.json"
-hash = "69a9e54dcf8da7d5b8da5bf1ba8a23c8c5cced9da1dbfdfdc2beba728df8d6eb"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/woodland.json"
-hash = "51314ad983b378660c32971fb7937279cee8d50b8685e24f3a7ae32a5506254a"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/biomesoplenty/xeric_shrubland.json"
-hash = "f784e58ffea157b6fd0995f01ca0e7a79874bd15c9771ad3f4ca8bea990b00f3"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/beaches.json"
-hash = "11ce93e57c84aeaec79945e82d2ee7e1a708159017d3e7877657c89c265f348a"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/birch_forest.json"
-hash = "db02c3a484b5e0f0c83d20dae1d37bffc5b38c07b713515392a9e4e271df7bf2"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/birch_forest_hills.json"
-hash = "db02c3a484b5e0f0c83d20dae1d37bffc5b38c07b713515392a9e4e271df7bf2"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/desert.json"
-hash = "d43ff912e1430e195d9d174a6cc00238fcf4e4238fbb695d54d6e5dc0e280d41"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/desert_hills.json"
-hash = "310b12a3476ce9cbf3e9aa9832a7627617953a0b6fcc1391470dcb65ec5516d3"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/extreme_hills.json"
-hash = "c3c147a263ac9d839dc4b1e9cdbcff00af6aa2461b2f01d974bfcccdad53a599"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/extreme_hills_with_trees.json"
-hash = "c3c147a263ac9d839dc4b1e9cdbcff00af6aa2461b2f01d974bfcccdad53a599"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/forest.json"
-hash = "85bcf5e240eca02369bafcb70dc284feff12bea91845a0b081f93c28587d54fd"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/forest_hills.json"
-hash = "cd3b4a2f7203b7f09163f7f9c1d2535cae45cfe15b791fc835be511009568e82"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/hell.json"
-hash = "1c4a4cbe3eb11a647e8357a20225b21448af1f99452b29174b5a9dc17f061a29"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/ice_flats.json"
-hash = "d51f3a018c095c6899c3bfbc0274f0812679e56007e1913acd2845dc47eeec51"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/ice_mountains.json"
-hash = "d51f3a018c095c6899c3bfbc0274f0812679e56007e1913acd2845dc47eeec51"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/jungle.json"
-hash = "9b751f8e910966ffe852ec5dc71448c547688675da591dd25ccddc4bb9c5e814"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/jungle_hills.json"
-hash = "9b751f8e910966ffe852ec5dc71448c547688675da591dd25ccddc4bb9c5e814"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/mesa.json"
-hash = "93ca5fde991a6bad6251b38cc774ffb5d0310a80659f7fb7406b190e9ec379cb"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/mesa_clear_rock.json"
-hash = "93ca5fde991a6bad6251b38cc774ffb5d0310a80659f7fb7406b190e9ec379cb"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/mushroom_island.json"
-hash = "6249e197ec40a61740b12f140c884b760dd1884f3c9f0caf6b584aba7af6fead"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/mutated_forest.json"
-hash = "fecaff8714828d5fc1fb21336ff73bb080b9456943df05e4dd54f9e910cff675"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/ocean.json"
-hash = "0cf38fbbc51492eb47ef42ca0f6c63989417f067975284aab1be2ba60d539e80"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/plains.json"
-hash = "a979aab699b229319d6c81009c9dcce44dc140baf78544c89f07442afbf0e1d0"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga.json"
-hash = "150e78e10c71600ef372682f62763bd6ed24c105b4bd56e3294a0fe949b5bec7"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/redwood_taiga_hills.json"
-hash = "150e78e10c71600ef372682f62763bd6ed24c105b4bd56e3294a0fe949b5bec7"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/roofed_forest.json"
-hash = "cb744089b71700a28aca94295c7feb08faeb727231442407dc7496e05d720ec7"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/savanna.json"
-hash = "f03e8d3c81a46d494fa91230c7ee7015abbc0527a2197d583c7bf616e84968eb"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/savanna_rock.json"
-hash = "647729adee5599868bbabb8f69d5cb6c22bc84e2c14f48a0919e9f35c46a5ca4"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/sky.json"
-hash = "9c38be193b590150873d14183d428f5a335f4178c3c06668a2e11c055071c2e2"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/swampland.json"
-hash = "7963aeaa4668e58c3f154ba216d419ed41862f7a4aa046a1fd8b42af292a0918"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/taiga.json"
-hash = "150e78e10c71600ef372682f62763bd6ed24c105b4bd56e3294a0fe949b5bec7"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/taiga_cold.json"
-hash = "cc881c2692afc963ab6440a8b661c98607cad5218b8f017e16187282e93f8f44"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/taiga_cold_hills.json"
-hash = "cc881c2692afc963ab6440a8b661c98607cad5218b8f017e16187282e93f8f44"
-
-[[files]]
-file = "config/biomesoplenty/biomes/defaults/vanilla/taiga_hills.json"
-hash = "150e78e10c71600ef372682f62763bd6ed24c105b4bd56e3294a0fe949b5bec7"
-
-[[files]]
-file = "config/biomesoplenty/gameplay.cfg"
-hash = "be256098e21e145bae3047a6b9d0e297965dcefd7ff999b15db4ff52e05f0b7f"
-
-[[files]]
-file = "config/biomesoplenty/misc.cfg"
-hash = "2621e638f1bc1ec01ae336c509288f111829ece11a28170e303ba4db201fd1f0"
-
-[[files]]
-file = "config/bloodmagic/bloodmagic.cfg"
-hash = "8a5850a4d3536ce08a7598923af6784d9e6a2e84edf3ed1026d2387ed820a69a"
-
-[[files]]
-file = "config/bloodmagic/meteors/diamond.json"
-hash = "d07e896eda0661f1787604609dd8d6f598afdfb2de21892591445848ab3d8ca2"
-
-[[files]]
-file = "config/bloodmagic/meteors/gold.json"
-hash = "c8cd3cc4fc3335e1aefbc1a0f212bdc2d51558c0f927fe29d327eb769748ad29"
-
-[[files]]
-file = "config/bloodmagic/meteors/iron.json"
-hash = "5569dc8dd8fa255bc2aa947fcc5baf926e4591133b3f7604469463d072f1651f"
-
-[[files]]
-file = "config/bloodmagic/rituals.cfg"
-hash = "4d8391af3d27bf00e7b5612d21e9c52cd7f9aeddbac4db33db96cdd38b2435cc"
-
-[[files]]
-file = "config/bloodmoon.cfg"
-hash = "a2f049b7895ea48f4d216457b09f1b135308cff3f986a46c6024c7520d57c0be"
-
-[[files]]
-file = "config/bookshelf.cfg"
-hash = "ba2729658d054813c30596d27f8a0fb17498508cad0e958ebc378f325c92da5a"
-
-[[files]]
-file = "config/botania.cfg"
-hash = "80010f03e5ba411b5d5cd9d5a432eb6d3bd09b046276dc3d80f191b314ea4e6c"
-
-[[files]]
-file = "config/chisel.cfg"
-hash = "d26ecdae81dae81dc58f3b9a3838b5382023e0904c74ea72cc2fcf320086cc96"
-
-[[files]]
-file = "config/creepingnether.cfg"
-hash = "7c0ba825422df37363cd0d0604442a348a3a384b156fd90b2cef03d9bcb57791"
-
-[[files]]
-file = "config/ctm.cfg"
-hash = "7ddf0e7cd4bb1dc03e6201ab78a7f73f0e7ac2cbbdb615c44fa72df5db63ca89"
-
-[[files]]
-file = "config/custom_potions/example_any_metadata.json_disabled"
-hash = "e940502f7a0532dd2a1edd343226dd16471b2be6e8e0233fe93f960c8c77412a"
-
-[[files]]
-file = "config/custom_potions/example_instant_effect_ingredient_metadata.json_disabled"
-hash = "c073980ca004f94203472e7cc3abe1c566524543561cc7d75815a8c32a0488b6"
-
-[[files]]
-file = "config/custom_potions/example_normal_potion.json_disabled"
-hash = "ab310929bc3d6965eefae0875cc4d8fe157ee75b666bf47439e2d552499cf7b0"
-
-[[files]]
-file = "config/dimdoors.cfg"
-hash = "24c961ab58d878615136d4216bdc2d1e1382ddb0f02f89ce4a118553d52a052b"
-
-[[files]]
-file = "config/embers.cfg"
-hash = "fe0e59b9016dcb43d9d19d56fad5ba18c1195c96d656a7bc07f3075b70a09427"
-
-[[files]]
-file = "config/extra_alchemy_ring_whitelist.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/extraalchemy.cfg"
-hash = "68c501fb80572ca9d457279107189fdd2bbfa663f2e292cdc4679f9a16eeb458"
-
-[[files]]
-file = "config/familiarfauna/butterfly_biomes.json"
-hash = "3e8976a7c9db514f2b0281f721e5cdab21774fe2a95caac6eb4ea44bce3d0a38"
-
-[[files]]
-file = "config/familiarfauna/config.cfg"
-hash = "def06e67cc1db5a26fb053e0e35dba8da4c1b477e593bdf2b9fcd17d1d12b3cc"
-
-[[files]]
-file = "config/familiarfauna/deer_biomes.json"
-hash = "0954301bd30b8cb9d057a04abb9681fbc48c7bcf704c3d860494faf17a0585d4"
-
-[[files]]
-file = "config/familiarfauna/dragonfly_biomes.json"
-hash = "3254b739f33db0f922ca193cae22faaec04906fadd96dcff36b759f056fc46f7"
-
-[[files]]
-file = "config/familiarfauna/pixie_biomes.json"
-hash = "a406d9ce2e54a7371a00c4335f6c0ceb4eb2081c9c4f7d48c82f6539145f2346"
-
-[[files]]
-file = "config/familiarfauna/snail_biomes.json"
-hash = "03a2e2919ea630cfcb34cb486fdf91c617e08c240d21e53cec2d988ad7329dce"
-
-[[files]]
-file = "config/familiarfauna/turkey_biomes.json"
-hash = "281dcf54435b673fbdf04a78013cc039722a4de77e917a72ce521385a60b4e77"
-
-[[files]]
-file = "config/forge.cfg"
-hash = "c642d286a0379b2aafd2d282a79239e58d32ac15cc25dfd08bab5747a5d85662"
-
-[[files]]
-file = "config/forgeChunkLoading.cfg"
-hash = "95b66df0da7df0be35ccbc51ad08962b7ddba14f593f0428096547d67fed2378"
-
-[[files]]
-file = "config/friendlyfire.cfg"
-hash = "b12cf8a4cfdd566bc0364d476af20ce02e75ead6c7f7be7bd29b4c8443df9ed9"
-
-[[files]]
-file = "config/ghostly.cfg"
-hash = "506f8d12fe85ed989e5dfff095085265e22218a84b413cfc94f5c739d01052ad"
-
-[[files]]
-file = "config/globalxp.cfg"
-hash = "8e5def43f4bfc26ef59c566f8a064279fe71db204ea01525e89593a3e82e0e07"
+file = "mods/abyssalcraft.pw.toml"
+hash = "8078b123b41ee58a08d41c3560e063048a5e6e0bb05d5943df207d154842298d"
+metafile = true
 
 [[files]]
-file = "config/hardcoredarkness.cfg"
-hash = "2c92a402ec94494b0166608dff07bc5c827e682341497f099cd05083decbf0b0"
+file = "mods/additional-structures.pw.toml"
+hash = "a16f4f4dec18809a08f214522afdbee126f7f475285adf9e329f2bc54a53f5bc"
+metafile = true
 
 [[files]]
-file = "config/ice_and_fire.cfg"
-hash = "1955788f059eb43e564fb9d5f5eaa3f5c98f93830e8c47028f543b6f0f682ca0"
+file = "mods/aether.pw.toml"
+hash = "7ff0de96be3db1d73f5a93c38641f94686f45e5d63dbabb9fa35dc06de7a96ed"
+metafile = true
 
 [[files]]
-file = "config/ichunutil.cfg"
-hash = "25d87a0ce9bdcd7f581525dbcd718c8584865e1a31ff789c46313ab5ba60f48c"
+file = "mods/ai-improvements.pw.toml"
+hash = "d82215725e90de90b17ccc70c15825fc6b2c74100f1e26464ef17391b61d68f3"
+metafile = true
 
 [[files]]
-file = "config/ichunutil_keybinds.cfg"
-hash = "140b814c2d4dbe0645d252d0e9e3b8ee4dce23ee8ea76cd0e0971a6153e813af"
+file = "mods/air-hop.pw.toml"
+hash = "2f982e69a706f63c8b1c2cd6c1931be6c17e08d431725f452c0b671a773d7279"
+metafile = true
 
 [[files]]
-file = "config/ironchest.cfg"
-hash = "6069282a9cf2a7047073120d602c7f54e6b642b52be4329787e95af97246d2be"
+file = "mods/angry-pixel-the-betweenlands-mod.pw.toml"
+hash = "1d3b0b677a306102a497aaeaf63b725a703bfdf3a053cfef8952bb256f8fe7d3"
+metafile = true
 
 [[files]]
-file = "config/jei/itemBlacklist.cfg"
-hash = "41ab5806db8d5e1c3ce04d36dc8564cc8a21d33dcc0945b3903df0f2a9c68d86"
+file = "mods/apotheosis.pw.toml"
+hash = "cab514b6b6236a357fde4ef97e2f4ffefa039a4735c315a43558d111aa2fe799"
+metafile = true
 
 [[files]]
-file = "config/jei/jei.cfg"
-hash = "765febbe6be3faf646e5a8d05115e53542938dab152c7b142d9b68fa2a07e706"
+file = "mods/appleskin.pw.toml"
+hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
+metafile = true
 
 [[files]]
-file = "config/jei/searchColors.cfg"
-hash = "4778e8b2d6b384ac6d52c7ceea96735c62c15bfe80a60e17db76f9f49b4eb8e5"
+file = "mods/artifacts.pw.toml"
+hash = "46dd4a3995f52240b7e5f614860eb2522125f86b135f3407cdc3ce6b8cb39621"
+metafile = true
 
 [[files]]
-file = "config/jei/worldSettings.cfg"
-hash = "4ede16a684a3680c1bc2541ab61a957adf777787b9ce11eeb398aa055f901168"
+file = "mods/atum.pw.toml"
+hash = "ff652e35880dbddd1095a2c002246fc967e7f6d256778a053b6a8408d2c9fe39"
+metafile = true
 
 [[files]]
-file = "config/maxpotidext.cfg"
-hash = "4760c0668c598c1147112df0414f5e47f357364222e668f0e0775108994a7464"
+file = "mods/back-tools.pw.toml"
+hash = "c90c363c11ef9425833b52177cfea95a3492e59c456a12c82b045271f2ad5afd"
+metafile = true
 
 [[files]]
-file = "config/midnight.cfg"
-hash = "5abfb3b97e27eef6da36719cb0814c36ab32b77be1a9d70bd9b1ae0020d94c9a"
+file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
 
 [[files]]
-file = "config/mobdismemberment.cfg"
-hash = "5a6f0b2b0f3aaa1111bd4a00c2ab52eb7b7ad90de1c6aac369d64b59c506b75c"
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "17cbdc93596925c1e6110dc7aa07489accec7dfc741219a99202fb4b248d685a"
+metafile = true
 
 [[files]]
-file = "config/mobends.cfg"
-hash = "a16c883b8ea74554736122f6e49b5e7f23f5cd4139474a6a199183f59ecfaaa5"
+file = "mods/better-biome-blend.pw.toml"
+hash = "4d2a7b1094737b39ed9cdfb29e83aedd0ac0addd72b41d5e6b129754e9eae316"
+metafile = true
 
 [[files]]
-file = "config/netherex/netherex.cfg"
-hash = "4b9f7fbc476c37255edb3cfafc7eab224d53ac93f7354229ddf4d8ff87d19b81"
+file = "mods/better-ping-display.pw.toml"
+hash = "c2f90549e1a2a88f9cfe58f1f5255d2bd5c616e53464a6953ab1e237c27b85e7"
+metafile = true
 
 [[files]]
-file = "config/nightmares.cfg"
-hash = "90d6b0e9dec2b5fd58cd66518b0cbee176b53c8cf503164fb36e25506946e8c0"
+file = "mods/betteranimalsplus.pw.toml"
+hash = "026179f9c25ebe3045909c7754edf4465049617e9e8e7c0bca5f2cdb2c6db02e"
+metafile = true
 
 [[files]]
-file = "config/orespawn.cfg"
-hash = "3eb8ce71f894ec5e88ebeace0abeed0c4342c3352f002350b856542883733ca4"
+file = "mods/betterfps.pw.toml"
+hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
+metafile = true
 
 [[files]]
-file = "config/orespawn3/orespawn.json"
-hash = "f1f64f7735af767d23982c8a3a9c28b5b2e29326a927ef881522f82a7ca18191"
+file = "mods/bewitchment-legacy.pw.toml"
+hash = "3508bee8f8e7bf63e5d9c4cd541a1951418ebceacaae42b2659d2d32390ab766"
+metafile = true
 
 [[files]]
-file = "config/orespawn3/sysconf/features-orespawn.json"
-hash = "a476fff24d87dcbfc82d7c1787955e2c9eba664c35c53ecadf33c1b6c2351af3"
+file = "mods/bibliocraft.pw.toml"
+hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
+metafile = true
 
 [[files]]
-file = "config/orespawn3/sysconf/known-configs.json"
-hash = "ac15f0c02ef686708edb8e1df7dc032f31f2f2983c07ee1b5d94df1dd802f77f"
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "b4b09371d854a8f95030af5cb04d61571a3afed6b2e1871b4f10fddca6e674e1"
+metafile = true
 
 [[files]]
-file = "config/orespawn3/sysconf/replacements-orespawn.json"
-hash = "b2239273a5ad9793c1a131f27231e7178024686ff2fb2462e9af8535c30fc8d8"
+file = "mods/blood-magic.pw.toml"
+hash = "632549542eb039887281a603cf4141f2dde6522d4c547d6ba7ea3fd2d88fbac1"
+metafile = true
 
 [[files]]
-file = "config/performant.cfg"
-hash = "58a97fe679a9bdff5bd618223d58a4c6e2a77d6c6abd46ae727cd1ed5dc32d61"
+file = "mods/bloodmoon.pw.toml"
+hash = "5724263b820ab0bd57959f37acc1f2b37c35fd905fb4ea84cf0434b84530d268"
+metafile = true
 
 [[files]]
-file = "config/placebo.cfg"
-hash = "0628351b50b1e0c6523dcf0a4ee6a12c8123963ed84bd42c3f1ac504b6bddb22"
+file = "mods/bonsai-trees.pw.toml"
+hash = "30c7e695c156b6e560d1c8db3a63d4446f73c89bfcb6bee5a6a819276b19614a"
+metafile = true
 
 [[files]]
-file = "config/realistictorches.cfg"
-hash = "e00f5e7c677a1e50f86972629fdfbd3386b883eeb3c86c50545fa7b968f71222"
+file = "mods/born-in-a-barn.pw.toml"
+hash = "36c91e63beab5d3c889c036135ffcf0fb701cb79c71aa34ccd73833876173d92"
+metafile = true
 
 [[files]]
-file = "config/roguelike_dungeons/roguelike.cfg"
-hash = "f7e4dc1ca6c6c577f23067b815b1f2fdcb8fde1b0a36161e770538b18d53c630"
+file = "mods/botania.pw.toml"
+hash = "96de7b241688c8771621d9ef3dcc4eb565389739196334bea745043375dbc03a"
+metafile = true
 
 [[files]]
-file = "config/satyrn/wolfarmor.cfg"
-hash = "791599fc925d874eb076ce71d4a27cbcbe8278fa98c3672e15e25a660e870be1"
+file = "mods/callable-horses.pw.toml"
+hash = "203659158908b01fd5166eba5add66749ff5b205cf20b3f4eda0c247c35c1bd7"
+metafile = true
 
 [[files]]
-file = "config/sereneseasons/biome_info.json"
-hash = "e6e907f40f8e4296186bad8ac49df09a9b4a30e4c6a556ad4b2f5618fb6667d2"
+file = "mods/chameleon.pw.toml"
+hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
+metafile = true
 
 [[files]]
-file = "config/sereneseasons/cropfertility.cfg"
-hash = "cf7dba0677d3b6dedb3a55d6e77a6c97008aea34a1204e055945d6a7abca27e3"
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
 
 [[files]]
-file = "config/sereneseasons/seasons.cfg"
-hash = "d1b13176ab0268d1fc0ba133914fa438d66169f6c8d324b0a786a0aeee81249f"
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
+metafile = true
 
 [[files]]
-file = "config/spartanshields.cfg"
-hash = "6606bcf90d657f6a857c3416949ed9f25bd3839d629ec0f943786cae8c737068"
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
 
 [[files]]
-file = "config/spartanweaponry.cfg"
-hash = "0dd012036f05dd888128b9321fac4ca678dc2f36685e91ac3876ab6626f8e686"
+file = "mods/cofh-core.pw.toml"
+hash = "af02d1303bcea63f7db8fe253cd70f74347857fd0b26a58b3961b95bee3b0ffe"
+metafile = true
 
 [[files]]
-file = "config/splash.properties"
-hash = "117511981d7f5e5fd41303361b8713ee331f0a067d4a2e3b971c3bf15c89e082"
+file = "mods/cofh-world.pw.toml"
+hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
+metafile = true
 
 [[files]]
-file = "config/storagedrawers.cfg"
-hash = "d336d276f0cfda7d7bb133f4d5130848d07d36d92c9f93fc9ab81a46d4769769"
+file = "mods/collective.pw.toml"
+hash = "239b3da4a13cdba884a500205728e786f9952d928f405c9ad128f30f55106d22"
+metafile = true
 
 [[files]]
-file = "config/thaumcraft_graphics.cfg"
-hash = "5177a7cd72d2c5537209d419500f1be0a58501c0e4c4c841b72e27b46a1da939"
+file = "mods/coroutil.pw.toml"
+hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
+metafile = true
 
 [[files]]
-file = "config/thaumcraft_misc.cfg"
-hash = "12c478270eef3bfe018d4071987a6325619562a2e167aff31809c336156ab4f2"
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
 
 [[files]]
-file = "config/thaumcraft_world.cfg"
-hash = "fb407272a5b9e59d7f6c1588dd9e87d29ec263e40891f1ff14d0430b2fcace37"
+file = "mods/cucumber.pw.toml"
+hash = "ffecbfb48490b9b6b713077e8e2cf89a5a3335cc5d5240ed5e260e962e3eedee"
+metafile = true
 
 [[files]]
-file = "config/thaumic_periphery.cfg"
-hash = "7238bcfccb20f970ec65d332cb9151d6cb7a488ac9efd7c8422026ee3c6e92df"
+file = "mods/cyclops-core.pw.toml"
+hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
+metafile = true
 
 [[files]]
-file = "config/thaumicjei.cfg"
-hash = "f191208cedaf0c19ccdbfb4ec58af40a317383f7ba1e4385dc43dc591aeb4faa"
+file = "mods/dimensionaldoors.pw.toml"
+hash = "1911b6e62b70784ca4335fdf758d3439863f5e4eab446cddacb45f641624d285"
+metafile = true
 
 [[files]]
-file = "config/thaumicjei_itemstack_aspects.json"
-hash = "d70d38c392e52db96c079c6319426c9e437290443c84988b644813acea359e21"
+file = "mods/ding.pw.toml"
+hash = "c292e0b7025aef514405d08d52ba07dbe0754698b5475893fc44011cfc12ea05"
+metafile = true
 
 [[files]]
-file = "config/thebetweenlands/config.cfg"
-hash = "f222069aca732bed76de668bb314cb523bfa5050641f88842b541aa4f6cbda47"
+file = "mods/ender-io-endergy.pw.toml"
+hash = "fb212a75500c35778bedbad289eba92d802a9924d0e0173d0a755ed0078944ba"
+metafile = true
 
 [[files]]
-file = "config/thebetweenlands/config_version"
-hash = "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305"
+file = "mods/ender-io-zoo.pw.toml"
+hash = "608796c2a2c228d7c7a6add2842c153d91ddc260c5dcd0975ee67198803cbffd"
+metafile = true
 
 [[files]]
-file = "config/torohealthmod.cfg"
-hash = "6434a86c9012989721c596ed4754247dbe175e3ab049005c066bb554c0155dde"
+file = "mods/ender-io.pw.toml"
+hash = "cde76f6a6996baea5268266faa3d2bf93aba1e61f2e85c1811c383087bb20457"
+metafile = true
 
 [[files]]
-file = "config/traverse/traverse.cfg"
-hash = "d7248d3a136e16c71e300d9991bfa1e521bffcac5fdcbd8aa21f26da35115e4d"
+file = "mods/endercore.pw.toml"
+hash = "d56f22049555a71eb22c72d4a07fdc520af07da3cbb0eeb0283bcef87c370a71"
+metafile = true
 
 [[files]]
-file = "config/twilightforest.cfg"
-hash = "8859d3eed6ac7576ec381e83f9277cb469ef1a7948aca2d7e001b580bc3c21d4"
+file = "mods/entity-culling.pw.toml"
+hash = "7f9237d800bbb898a597d321ffb65f5c2df6a7764a31d1335cc48ef78866bc23"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/general.cfg"
-hash = "4f7fa9746e51ef77f045dcbde7514be927854ceb1216e51fcbd70fb2b13b7e98"
+file = "mods/equipment-compare.pw.toml"
+hash = "f66cee33a43f9132b7b181dfd46668779cf74b6ff57f323e8a8d3bfaa6db925c"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/hunter_player.cfg"
-hash = "d27d242ca02677fa7be3bddef32c766906be1df62da34a3b7c0abe0342a7e0cb"
+file = "mods/erebusfix.pw.toml"
+hash = "89d6b7c7d9c157db54abeada332d422e1efdb9b090b8fa401852c2de7bf76fe3"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/hunter_player_actions.cfg"
-hash = "a079373465a52635bc637bad2d1bfeb7bad5e7ed0a52133628d96d8d2f3a6766"
+file = "mods/evilcraft.pw.toml"
+hash = "ec69ddc616ac8fb57cc1d45da5e6b8326071946d69b38e41250768d9779dfe32"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/hunter_skills.cfg"
-hash = "1cdc125d8be96ef982ebfb1026668430c1a47b0297bb5f87f1c1bd4ff75b795b"
+file = "mods/extraplanets.pw.toml"
+hash = "f71ac7b38cb5f43c8f3bce12df374e3bdaab926d682e11ff71acfae5bb9a8cef"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/leveling.cfg"
-hash = "bb6d27e87805311d87f8dfa66b5311622565a3aab5fba39bf90624bc697282a7"
+file = "mods/fairy-lights.pw.toml"
+hash = "518753e7430d4fb4b2f737dcb0b4c2ca9c47ec7f1789a3470f59c510eb91d044"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/mob_prop.cfg"
-hash = "63afc859f818ea1aca2b5ebdb0f19eac758cf943b5ad45828fee70ed22ce066a"
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/vampire_entity_actions.cfg"
-hash = "d0815bf18472fd5f8a5bc1c92035316cbee728f3a688ed2dde423bf403eb2909"
+file = "mods/fastfurnace.pw.toml"
+hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/vampire_player.cfg"
-hash = "ed9a408d1ed2d3a4d24ed2b45ff4bb381bad52aa65b758f1c31a74329b0175dc"
+file = "mods/fastworkbench.pw.toml"
+hash = "d856a3027bb9f9d54c0ea2e02e6150510eeebd240bbb240779cdf0c27607110b"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/vampire_player_actions.cfg"
-hash = "c2e5cde7db53f1f12cc0d26d072e05384bb268356faa129360603f06e1c7b2b1"
+file = "mods/fishs-undead-rising.pw.toml"
+hash = "a10be783cb67321edc9d1d152e4a71daab0a3a945524c0249767c36e28912f36"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/vampire_player_skills.cfg"
-hash = "15e3422efd2d3d5a74f976a211912efe33a3ba820ec55455741094c384834466"
+file = "mods/fnars-roguelike-dungeons.pw.toml"
+hash = "6c8bd6f3816cffd8b7a89feb25622799437be20355972023284306f359b2be8d"
+metafile = true
 
 [[files]]
-file = "config/vampirism/balance/village.cfg"
-hash = "f33e5ec8c63249c6b405ad5eb08c269697b25bdcda788ccaee4d6c94d7d21f23"
+file = "mods/foamfix-optimization-mod.pw.toml"
+hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
+metafile = true
 
 [[files]]
-file = "config/vampirism/vampirism.cfg"
-hash = "c722f662971aff45c857dd47d30c6531ece2d076ef08538eea28bec1bf09e904"
+file = "mods/friendly-fire.pw.toml"
+hash = "fc03c86a4297c437bc32ee9ab721248f84effdcac1c9e3db41302232f9b054f3"
+metafile = true
 
 [[files]]
-file = "config/vampirism/vampirism_integrations.cfg"
-hash = "d2d82d41502c042086c3806206a6eb9608862d10f8babd3912583a3ec847c8a0"
+file = "mods/future-mc.pw.toml"
+hash = "6729b67fb22de6eff6537ee93bfce852d187eb5ef5ae523ae2f9b1fa47808ca9"
+metafile = true
 
 [[files]]
-file = "config/vampirism/vampirism_mod_compat.cfg"
-hash = "c34fbfa2651adc38b2ef9fdd867f1a72b09963076860015e81dc3a356fc8a57f"
+file = "mods/galacticraft-legacy.pw.toml"
+hash = "1e470a72b6e3b2c14dd377c1d34f962aa1efe603a61f4ca8db3afe7c8298b5b4"
+metafile = true
 
 [[files]]
-file = "config/waila/theme/dark.json"
-hash = "cd2696aae34e17993d6eb737f7a1bc74d949058463bc304ae0ded14c5cac9f19"
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "46323f0d213c9254b88676838c07c13418874cc0fec8edb7f966b73c16efe746"
+metafile = true
 
 [[files]]
-file = "config/waila/theme/vanilla.json"
-hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
+file = "mods/guide-api.pw.toml"
+hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
+metafile = true
 
 [[files]]
-file = "config/waila/waila.cfg"
-hash = "cfe7cd61375f4be4af5005da263c1f32d970e5682cda8df53cb971a5cd37407c"
+file = "mods/gunpowderlib.pw.toml"
+hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
+metafile = true
 
 [[files]]
-file = "config/wailaharvestability.cfg"
-hash = "b28bf855210415faa693e655b82f5595292254b99a77a9d921d360ec8b9ee384"
+file = "mods/hardcore-darkness.pw.toml"
+hash = "7802c0b6315b31dc6ca400703d15ab773730fa080b66ac430689ddcda4cd94d9"
+metafile = true
 
 [[files]]
-file = "mods/BiomesYouGo1.7.1.jar"
-hash = "0ede6fac09cf7019d214811c32ae1e805b1814776eca983cc9ad3a7cdffbf635"
+file = "mods/hats.pw.toml"
+hash = "6d9ef3b58ebe74992ac20ad96df05595b85c0b6a4b7a25988ab1394fd5500a91"
+metafile = true
 
 [[files]]
-file = "mods/abyssalcraft-integration.toml"
-hash = "83ad8ce1f570b49e401eefeb6f97c5b6bcd7eb86484bcc77ee8b8fd90e3064a5"
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
 
 [[files]]
-file = "mods/abyssalcraft.toml"
-hash = "70963576df94ef3e769618fa5ddb4b1f51afb673e959f5733b09dacac26a0458"
+file = "mods/ichunutil.pw.toml"
+hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
 metafile = true
 
 [[files]]
-file = "mods/agricraft.toml"
-hash = "01a4163c0a9490b5eac02034d82f09e798f08ab1ed4a855d81bb8037e2a96131"
+file = "mods/improvedbackpacks.pw.toml"
+hash = "5d343f60bc5a70c0515b9ff7bf8f86ac41d52c398db163b66c9d08a6075fa039"
 metafile = true
 
 [[files]]
-file = "mods/angry-pixel-the-betweenlands-mod.toml"
-hash = "39940fbd0d11e3263f374fca40f1a8071fbaee0aaaf2f9c375009c6824527dd9"
+file = "mods/industrial-foregoing.pw.toml"
+hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
 metafile = true
 
 [[files]]
-file = "mods/appleskin.toml"
-hash = "1717e089fb5b41114e99afa8709b6e8415ebff1192a3fbd70dbee90c05429b21"
+file = "mods/integration-foregoing.pw.toml"
+hash = "87faafe82f6d61165d42928b6dd667aba7d62d4207f359f98a73781b97c994f3"
 metafile = true
 
 [[files]]
-file = "mods/astral-sorcery.toml"
-hash = "31e5516da460fb467ddbdda0cb8221787ed05af35c0d35657614186813f8341b"
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "8bb458661433eb42920e72245023a497cd34b00e147528d15a043176d57d9f0f"
 metafile = true
 
 [[files]]
-file = "mods/atum.toml"
-hash = "98b2f15020eec7bdefd2c481de5f9dd199a2445f0d2847d09649786c86298920"
+file = "mods/inventory-tweaks.pw.toml"
+hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
 metafile = true
 
 [[files]]
-file = "mods/backpacks.toml"
-hash = "52ff260e61ce2943de7dffac183780011ccd37794419927ca004a3949872f9f7"
+file = "mods/iron-chests.pw.toml"
+hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
 metafile = true
 
 [[files]]
-file = "mods/baubles.toml"
-hash = "c753e5872ef229ff88ad5e1e0aeee78a8db2084017acee1bf9a45c4807037250"
+file = "mods/iron-jetpacks.pw.toml"
+hash = "11aa5b7ab0ecf26904557f47cd0d95934c2a4420bc67c5aab710e5dddf8e97a0"
 metafile = true
 
 [[files]]
-file = "mods/baubley-heart-canisters.toml"
-hash = "20a8b233a9754c67e442433385c978572c3339cb7d2b871e2d00ad1f8bb6d4f8"
+file = "mods/jade.pw.toml"
+hash = "444c9ed4f70cc87dab29246de73ee03c069ed3dbb13967d2576ad8b96bd1e504"
 metafile = true
 
 [[files]]
-file = "mods/bibliocraft.toml"
-hash = "457b6d6c4934bf014429a4fe9a809ad260660399d469661d6478f013073da754"
+file = "mods/jei-integration.pw.toml"
+hash = "c22915e1e0104cc0b2298fa3b1edb6b6c512a3e464bdc96c3053192550c00612"
 metafile = true
 
 [[files]]
-file = "mods/blood-magic.toml"
-hash = "1afc41e3016accf20d823ce4e2a9cbc67883edae018da6493d1cd43feb3b6285"
+file = "mods/jei.pw.toml"
+hash = "cda01bf4d35760f39fba127b80337559dbd82e75edd63c268f87ef6f02eb460b"
 metafile = true
 
 [[files]]
-file = "mods/bloodmoon.toml"
-hash = "e9db7a18f34a2918a645935a24115c92f71bf0e3a92819aac5cc8ca53c4f99f3"
+file = "mods/jeid.pw.toml"
+hash = "03caa2eb930e892f0fe87adc97b2c36bd203afa3be7a38ffaefcc94d1fee887f"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.toml"
-hash = "7c7d4da458ab082669f11975bad5fda167877dbabf8775eef22a8e230424831a"
+file = "mods/just-enough-harvestcraft.pw.toml"
+hash = "06e3b67ee33614ed6a0563cd6a69fdac69d5190398995707dcc9eb74d1956033"
 metafile = true
 
 [[files]]
-file = "mods/botania.toml"
-hash = "ee1079260915e7b1caf14afecc7aa9866560c63c14bc18b4bb1d42a957e8ae18"
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
 metafile = true
 
 [[files]]
-file = "mods/chameleon.toml"
-hash = "0c8fb1975d4eb96fcf5fdaf6cc0f77b2312f24bbbbea9316c424029eb9f047d6"
+file = "mods/llibrary.pw.toml"
+hash = "780f849666ae2b08a782a5d9571a3fe17d0ede5b65ffb3d2622419e8dd6b35ab"
 metafile = true
 
 [[files]]
-file = "mods/chisel.toml"
-hash = "52435fe963476b68456801103ac73a53d31de8af03df7d3c1fc069c88dda9627"
+file = "mods/lolasm.pw.toml"
+hash = "85dd47f10080ff28b61d0413635389cde99e077716d5c2fba07717e7f5613990"
 metafile = true
 
 [[files]]
-file = "mods/clumps.toml"
-hash = "3f524e92f6681e549c2fe1d5f5d085c774eed10f3fe0ab3f6e5c69afc7b53f3c"
+file = "mods/lycanites-mobs.pw.toml"
+hash = "a5f77db86203ee2e9174dcbd700d1e6c3889be6482aaa33a1018f4ebd92d4576"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.toml"
-hash = "39f775161527d11076b7b09eae872ebb5fcfd247c29cac3263ffba55b913bf00"
+file = "mods/mantle.pw.toml"
+hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
-file = "mods/ctm.toml"
-hash = "103696c67e5b9720d25ea953b8d3abc25c12db84da61a6e9b7d59232dfed1697"
+file = "mods/max-potion-id-extender.pw.toml"
+hash = "57b6d92f35a57a80ba188d597bd9e610866fcb945851063c43e90308ef01c427"
 metafile = true
 
 [[files]]
-file = "mods/cyclops-core.toml"
-hash = "4e911f678b661ee122277d893a2356ef494dc2b337e7944e6bfc387f0ec8d3fa"
+file = "mods/mekanism.pw.toml"
+hash = "c2c9d866c1bc629a6b126b9ea138c9ebf1dd18afc9ce7297740ddcd7866ac7b1"
 metafile = true
 
 [[files]]
-file = "mods/death-compass.toml"
-hash = "177794562116a820da49926dd0f5c1bdecd17bc0d8ec09d7f600056621e5dbf8"
+file = "mods/mixin-booter.pw.toml"
+hash = "5acf5b57273bf919c6dbaa1ea09de1536af5cbee948d0a66a41d7ecf2ff5b7e0"
 metafile = true
 
 [[files]]
-file = "mods/dimensionaldoors.toml"
-hash = "d4f57c530614d0b0cf2b5b25203b19f06a8a50910ac43eb6f767bc21abdf3561"
+file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
 metafile = true
 
 [[files]]
-file = "mods/electroblobs-wizardry-twilight-forest-spell-pack.toml"
-hash = "688e116bb55e6eb2f5d4ff8f30e4c8027038aa0bcb75819adcbf11b1f33e932d"
+file = "mods/mjrlegendslib.pw.toml"
+hash = "f0254cdd6d5f1c170dfdd1fb91c92f38962f3a5b37c241aea562e57645c8677b"
 metafile = true
 
 [[files]]
-file = "mods/electroblobs-wizardry.toml"
-hash = "53bb4a654f27cf25bf2839410212e552dfa1d2a302b03e5448cc06b1ca70a1a0"
+file = "mods/mo-bends.pw.toml"
+hash = "32917e74e44ed692074f7e6b88041ad9c6fc439e5d1f3a592d43061a5ebd20c7"
 metafile = true
 
 [[files]]
-file = "mods/erebusfix.toml"
-hash = "1b31a409bb18a97f3a90dd27fc816363c7e8052c341080e0f6eebfb46e9990f0"
+file = "mods/mob-dismemberment.pw.toml"
+hash = "0e9f470f078982e136269d489fd78d74d4329f662b1f62af5718a0fe50f10b19"
 metafile = true
 
 [[files]]
-file = "mods/evilcraft.toml"
-hash = "27c0f395068d018310ef1aa88008df521ac3648ddc757bc9a9110190dfe54eef"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
 
 [[files]]
-file = "mods/extra-alchemy.toml"
-hash = "bc49d9f30d1fbee7318caf3844f62ccb36ffba4cbd4223379379ad4d773b696b"
+file = "mods/mowzies-mobs.pw.toml"
+hash = "0c3f25faf7ef8560796d8746148f407501092ec9113126c8b1507a4de8b25c23"
 metafile = true
 
 [[files]]
-file = "mods/fairy-lights.toml"
-hash = "94adc8e57a927a50ce533695c07080bc144e0b93e24f7059bc5b71c9b39c715f"
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "b4815a6bd24ab674c6acdeb36d4e6e368edd22755451cab27faa3f9a81344ab9"
 metafile = true
 
 [[files]]
-file = "mods/fastfurnace.toml"
-hash = "35fdc71402afae6d51976df286ae6c883161f54db41acce7b5776e14d3c90296"
+file = "mods/mystical-agradditions.pw.toml"
+hash = "3f2f0bcf939bf6b455a51a8bf383885acf75aa19e2fe2fa2760192e7d027b815"
 metafile = true
 
 [[files]]
-file = "mods/fastworkbench.toml"
-hash = "7ed2d25a5708a4df04ef9bfb7d3ac6ab45e93d77c454f8ee3b0504db40c7a1fb"
+file = "mods/mystical-agriculture.pw.toml"
+hash = "6946b292f2f689e505e35135c43f6d2db9430929b473c30b569698c99cb266fd"
 metafile = true
 
 [[files]]
-file = "mods/fishs-undead-rising.toml"
-hash = "aabd8a131899c1af5d2d2a00d27e8f489be3dcf33738a2cb93e0e40df0bb52fb"
+file = "mods/natures-compass.pw.toml"
+hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
 
 [[files]]
-file = "mods/friendly-fire.toml"
-hash = "56b4369abc7fdbfa00eacb36151851f2e1bbbb6479e43d57b7ba8fd28236bee0"
+file = "mods/netherportalfix.pw.toml"
+hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
 
 [[files]]
-file = "mods/global-xp.toml"
-hash = "83eacaebd15ac7871e5e80ccbcacf0fd3b7bd29b3bc6ba4b895765f16e77feec"
+file = "mods/notenoughids.pw.toml"
+hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
 metafile = true
 
 [[files]]
-file = "mods/guide-api.toml"
-hash = "b9db7d42f0024e3063cc79b177fafb05039258549662d144246611693b01c739"
+file = "mods/nothirium.pw.toml"
+hash = "64df10bdf6074fad460d08cab90950aecf391e73c8e72b90f3d76b174e7e9396"
 metafile = true
 
 [[files]]
-file = "mods/hardcore-darkness.toml"
-hash = "f589f20972b08855d34e43b87c801edc9599376e27e397101f13eb1b701541b5"
+file = "mods/pams-harvestcraft.pw.toml"
+hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
-file = "mods/hwyla.toml"
-hash = "d24d12b6715372c0a092e35a977a517a378bb7178d6c8f919592f4ee5b7df52c"
+file = "mods/pams-redbud-tree.pw.toml"
+hash = "344266af7bf8c7c92c9c47826bf68ff74903f457fa4eeff6823d99aaf07e0b7e"
 metafile = true
 
 [[files]]
-file = "mods/ichunutil.toml"
-hash = "dea07cb4d9537ebfff1e22bfb82395c3b2850fbb0a5394aee05b906f5afbe5e4"
+file = "mods/pams-simple-recipes.pw.toml"
+hash = "ff40b7b91869eedec47e1c6988be4809918b1c73bb7e48eba156604ecb7a65d0"
 metafile = true
 
 [[files]]
-file = "mods/infinitylib.toml"
-hash = "d1714c7a101efb5a8a02964d37d53860b9cea3dfcf965590e1477e5c44bf813d"
+file = "mods/pams-simply-strawberries.pw.toml"
+hash = "0d1341588157b64c0d6bd98e03fc5f8d6566290cfdc71e71128756c51c5009bf"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tweaks.toml"
-hash = "6d27cdf8b28caadd52e995fc9526e237715260dcb98b9c46554c436dbf1ac7c3"
+file = "mods/paragliders.pw.toml"
+hash = "9a3dd0058e3ffdc3a38824c5b97ded8ae5c29608b9038bb29da34b42380fc668"
 metafile = true
 
 [[files]]
-file = "mods/iron-chests.toml"
-hash = "73bf12232de7a35bed950fd474e151b6e9ad324d677ea8357c04e392f9b657f9"
+file = "mods/patchouli.pw.toml"
+hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
 metafile = true
 
 [[files]]
-file = "mods/jei.toml"
-hash = "a13e7ffb803c1864cbb515a5511300f2a70c0f344455b0e501c59fe1225baa27"
+file = "mods/phosphor-forge.pw.toml"
+hash = "900c33ef3ec1924d7557882e955063e30726a81f662e1443b7a3d3ff66a557d1"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-resources-jer.toml"
-hash = "763a688ee77550d2405ef3af861598059fa6b5dfd2f2cb2df6c405953363cee5"
+file = "mods/pickle-tweaks.pw.toml"
+hash = "8e04421f03ffe22145eefce3df597f94a591e26832dd0b581a83730e3fd93354"
 metafile = true
 
 [[files]]
-file = "mods/libraryex.toml"
-hash = "a58884b9b48eee23d072b334ee01cf57059c198dc92934b140a76378609b4814"
+file = "mods/placebo.pw.toml"
+hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
 metafile = true
 
 [[files]]
-file = "mods/llibrary.toml"
-hash = "028fc795752cb7fec8f173296361d22e5321911d090ccc4aca3eaf687620e9af"
+file = "mods/projecte-integration.pw.toml"
+hash = "cb3f722a48ebfabc48c8e1097cc2c562b47aed071a5870e23bfdd3fc0cf34d17"
 metafile = true
 
 [[files]]
-file = "mods/mantle.toml"
-hash = "750e15bc8a8092318669fda0b179892a1be2ac65dc37e888d6586543e31c5471"
+file = "mods/projecte.pw.toml"
+hash = "4d0eefd58ee00bebee6d4b4309c819ede0cab0368d66e614a4bcbc2dc97ef829"
 metafile = true
 
 [[files]]
-file = "mods/max-potion-id-extender.toml"
-hash = "46ab522702709712597b99d83b04c2312b21b9c5958262474f8459fa397ab24e"
+file = "mods/ranged-pumps.pw.toml"
+hash = "1b49f8635d5003e16b77a59069677ae7268b90b2494f508dc5fe5db239d9d3db"
 metafile = true
 
 [[files]]
-file = "mods/memory_repo/angrypixel/TheBetweenlands/3.7.2/TheBetweenlands-3.7.2-core.jar"
-hash = "ab314960f978137b599f7fd75c58cca87eb7bfff7a033b3699e785c95107d0c4"
+file = "mods/rats.pw.toml"
+hash = "200e3375ca5eae053ac8923b201fbec3b4e20a413fa04f849872de558449f091"
+metafile = true
 
 [[files]]
-file = "mods/memory_repo/angrypixel/TheBetweenlands/3.7.2/TheBetweenlands-3.7.2-core.jar.meta"
-hash = "80d59917e7e05dc9397f554aa31518fb3fe0dbc55d8512cf910a8bb9c6b9a139"
+file = "mods/reap-mod.pw.toml"
+hash = "f45521ceb55672aefe53d6ba794aa7d069f9d45853af6ecf6f6a29168ee1c918"
+metafile = true
 
 [[files]]
-file = "mods/memory_repo/com/electronwill/night-config/core/3.6.0/core-3.6.0.jar"
-hash = "5f3e9099ddbfeb49ace43598c2271d951688aeab5a9d49fbc2b574b740679211"
+file = "mods/redstone-flux.pw.toml"
+hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
+metafile = true
 
 [[files]]
-file = "mods/memory_repo/com/electronwill/night-config/core/3.6.0/core-3.6.0.jar.meta"
-hash = "a340a96b571d57c1d1ab900cb3f87b925a6970750c83446098b2a0eab100d856"
+file = "mods/refined-storage.pw.toml"
+hash = "cd7b43d7b333457e6460ebfb29a33a22339c9dc396abfc59f0b13702ae6b5577"
+metafile = true
 
 [[files]]
-file = "mods/memory_repo/com/electronwill/night-config/json/3.6.0/json-3.6.0.jar"
-hash = "9f7e28822edd38623bb2bac4021599d8b0b09fcd1dddbc623c7cde60a1773762"
+file = "mods/renderlib.pw.toml"
+hash = "7fb9b7a0311e3979cd4d2d86bcb81d77a3286a14e42a5721c7637eb9bcf7b90c"
+metafile = true
 
 [[files]]
-file = "mods/memory_repo/com/electronwill/night-config/json/3.6.0/json-3.6.0.jar.meta"
-hash = "63048a4f62019cc5493714b8eaafc1384f19fed3d5769a451adaef477565e5dd"
+file = "mods/save-my-stronghold.pw.toml"
+hash = "a83d95bf25429f9f1df5053f870bf6cd814006efd7773604a7070cc6eb415177"
+metafile = true
 
 [[files]]
-file = "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar"
-hash = "981fb876fc665c7fa228ae9673ddbbd2355bbf320b6a7ead53987d35ef145e9c"
+file = "mods/scape-and-run-parasites.pw.toml"
+hash = "9ce5e765ff7d3c5f0890ffc1f2f711e5b00777d844d1ea191c1fa6e044344160"
+metafile = true
 
 [[files]]
-file = "mods/memory_repo/net/ilexiconn/llibrary-core/1.0.11-1.12.2/llibrary-core-1.0.11-1.12.2.jar.meta"
-hash = "2a41015371950d75ce8df0f234abf5767127c06d1893395a3c218dd7f8a77967"
+file = "mods/serene-seasons.pw.toml"
+hash = "537667da8b18765eb6b6a4041ca23651f1c7b16caf1b206992012ffdf7df2ed4"
+metafile = true
 
 [[files]]
-file = "mods/minerva-library.toml"
-hash = "d95762bf2dfef97e666c77e57ce7557670963c68a910b3537aff80a2c7654fb3"
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
-file = "mods/mmd-orespawn.toml"
-hash = "2c30890ee1e71b5c29dc000d3549487c90945a56ea4d7e0bcc31f68b740bf0a5"
+file = "mods/signpost.pw.toml"
+hash = "63ae091935fd273ca934c61cc982fc4c46306b7ed23bab6f99f7f697a7a1a0db"
 metafile = true
 
 [[files]]
-file = "mods/mo-bends.toml"
-hash = "eefc848fb4ca99edaa75b487e0dcf84e20a6b31499718427117c8979e13c9e5a"
+file = "mods/skin-layers-3d.pw.toml"
+hash = "2c9983c21bb1144e37850cf7b81983608b390e883ea2c3cffcd10d710ee8741e"
 metafile = true
 
 [[files]]
-file = "mods/mob-dismemberment.toml"
-hash = "de43cc67f2bbb57a459ea51507e89f0eaa05ef15edc6d95c991c5e2582a32af8"
+file = "mods/spartan-shields.pw.toml"
+hash = "5a26e0faa9fe26c46891d4beee4bc2ac62354eb4e307d56566ded9c174b1bcd5"
 metafile = true
 
 [[files]]
-file = "mods/mrcrayfish-furniture-mod.toml"
-hash = "3452cb3743b648507259123ba0fc11d4bf6ce15df93f24c08391ad69e0190cc7"
+file = "mods/spartan-weaponry.pw.toml"
+hash = "3b7b6c25c4e625c673b05145ddb986260d730afbc1b2970f86d19666cc78ccdd"
 metafile = true
 
 [[files]]
-file = "mods/netherex.toml"
-hash = "9aee7f9e5cdb33df23e6edcc1804f4911ee2a30d9b24acaa391d57354d7eefcc"
+file = "mods/storage-drawers.pw.toml"
+hash = "fb1e9e5a89d18998b920526ee6c89a525cd6aa514a30a59ce15c16281433745b"
 metafile = true
 
 [[files]]
-file = "mods/netherportalfix.toml"
-hash = "9d173ee00c9be20448e71d1ab57dca71aa5c213b677cbc8fe4effc76b3abf5ce"
+file = "mods/surge.pw.toml"
+hash = "76364bbc6e5ab454bdbd76fa3502bdee90c0bb842f6b405ed60f1d33c76053ee"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.toml"
-hash = "d96d5ae1bf39565f12e5ff8a5732648d83907d31719ea489a166b420d27cb609"
+file = "mods/swingthroughgrass.pw.toml"
+hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
 metafile = true
 
 [[files]]
-file = "mods/phosphor-forge.toml"
-hash = "19e54f56be909d7236e88943c3faada5b3388e5438a5b8e0507d8306f6ceb408"
+file = "mods/tesla-core-lib.pw.toml"
+hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
 
 [[files]]
-file = "mods/placebo.toml"
-hash = "d922cb34f5cdfab26ad314521f2c0dda694bddf9b640e19492d363e9979d69ef"
+file = "mods/thaumcraft.pw.toml"
+hash = "642fb95aa39530f0b662148d8f5357ea7cfc48312216eced5251d7337f80c9cd"
 metafile = true
 
 [[files]]
-file = "mods/railcraft.toml"
-hash = "368d48d7df744c50ca74c353fc0d9f028665a02911baa1c0e6fecb892758cff6"
+file = "mods/thaumic-augmentation.pw.toml"
+hash = "ad6bb1a3b399cc8c317348f52b3a1ac5b613b8b1692c66655c034baf84f2ae83"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage.toml"
-hash = "8222afd78b5c0aed8fd390b8aa4464e444615adaa3fcc163a6592a8660480883"
+file = "mods/the-erebus.pw.toml"
+hash = "4246cd1ad485fbf4094c3ab112af5ba65e43f93fdcf9fadbbf4d6f0347fd36b8"
 metafile = true
 
 [[files]]
-file = "mods/roguelike-dungeons.toml"
-hash = "e18a6be992936987b242ab50f4072f7ee817c9ade91533ebfd2627b8d638c352"
+file = "mods/the-twilight-forest.pw.toml"
+hash = "7af0b8a8e634eab7ecd9e6401ce3c71d6ec1c2c5dae078dee5a526898f88c72c"
 metafile = true
 
 [[files]]
-file = "mods/savemystronghold-1.12.2-1.0.0.jar"
-hash = "f66add4cc170c116a76d81f303681c5b7cc110d1871350c58daf9262e1a7a0af"
+file = "mods/themidnight-0.3.5.jar"
+hash = "43d909842d543055376d13b4f484bcf47fba257d3cd62dd24359b48f9cc896fe"
 
 [[files]]
-file = "mods/scape-and-run-parasites.toml"
-hash = "2f072ec9c2e21578595ab3a2f094103927ce32c94baf6f45133ac39eaa9734f2"
+file = "mods/thermal-cultivation.pw.toml"
+hash = "ffc8cf6d03dd4c77a59d3a58a82cad6cb3c36948540cb0fc1cf424a0f447ab92"
 metafile = true
 
 [[files]]
-file = "mods/shadowfacts-forgelin.toml"
-hash = "131c93b64f168057a684dbc6c953498f9837e83a585e5185451b9a1c942dcc9a"
+file = "mods/thermal-dynamics.pw.toml"
+hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
 metafile = true
 
 [[files]]
-file = "mods/spartan-shields.toml"
-hash = "f9de48139e4b6a4ac7e535d61f5d53eef1911b09991abe510cf96c227265d395"
+file = "mods/thermal-expansion.pw.toml"
+hash = "ccedb897162eeffc59668c11a684f66b5d73916b574f9904d7201eba33884904"
 metafile = true
 
 [[files]]
-file = "mods/spartan-weaponry.toml"
-hash = "19a32783cd87688ba9391e2aa987cf547bfa69356f3df963f08808db6ae4e5ba"
+file = "mods/thermal-foundation.pw.toml"
+hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
 metafile = true
 
 [[files]]
-file = "mods/storage-drawers.toml"
-hash = "e657fcefd418fe32d8ceadc423defe57f75cc6afe11c3b9ada164794d56e5b82"
+file = "mods/thermal-innovation.pw.toml"
+hash = "c2f83774a9967453865917241dc982e1aabba10f5aeba4389244e2d77fc2d04d"
 metafile = true
 
 [[files]]
-file = "mods/the-aether-ii.toml"
-hash = "a151cf2876e2a644278b16c810bd6618506ad9326a874cdc63d4638dd96c35ed"
+file = "mods/tinkers-construct.pw.toml"
+hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
 
 [[files]]
-file = "mods/the-erebus.toml"
-hash = "bd35d542ff42c36feffe423a82d32fea225c5a5861a7ef1dea4fe4f6d78fa6e9"
+file = "mods/traverse-reforged.pw.toml"
+hash = "c65124f713c2ae6de839a43fa2cea6b1e3c746e29753705a60606ec677b4ca01"
 metafile = true
 
 [[files]]
-file = "mods/the-midnight.toml"
-hash = "96288747d7da8e93724306f9b6595d48e63a7c8e6b5bf579f087adc0db11ad48"
+file = "mods/trinkets-and-baubles.pw.toml"
+hash = "3dc06bcb908399464356c2142aaf0a9976294145184fba2fd433da72d226aca2"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.toml"
-hash = "a9fc7efdfd27afbfbf6f268dd3f808cbf3fe1e1ed4e19000d799694ed6ff5f2a"
+file = "mods/tumbleweed.pw.toml"
+hash = "370bc2b9e294108b710ae6c6bcfde6c3d9257daf45e72a5bc327cef238024ee5"
 metafile = true
 
 [[files]]
-file = "mods/traverse-reforged.toml"
-hash = "0822e5c3f8cbc749d4ed9af6bde0963be9fffdae2238b0ba8d7ef8ee4c32c3e3"
+file = "mods/vampirism-become-a-vampire.pw.toml"
+hash = "2dc40613d41e5b0619164747c32408e7f114498f5673a9131be2979b39d0892f"
 metafile = true
 
 [[files]]
-file = "mods/vampirism-become-a-vampire.toml"
-hash = "104777c34a3ec45e02d1f46e07ddf2197522fcc6c1c08cb09f4c4a41e8f61173"
+file = "mods/vampirism-integrations.pw.toml"
+hash = "09f611069fd198826a37611e3ad7a3ae1f5201e00882a4771938701d567c18ee"
 metafile = true
 
 [[files]]
-file = "mods/vampirism-integrations.toml"
-hash = "74dbd39d5e849dbf8003284498f0438e21d318558682b2c5f88218ccbb7144c7"
+file = "mods/village-spawn-point.pw.toml"
+hash = "6f9b77b54a9543e3f9f433f6bde0f95a7c50b4c3bb0a34293ed2dc747fc6eeb2"
 metafile = true
 
 [[files]]
-file = "mods/vanillafix.toml"
-hash = "2e63937b2fc07197c86bb2502d04c9b8681aede59d8071fa51388292ef5404ee"
+file = "mods/wall-jump.pw.toml"
+hash = "820a26e3ac70b64cef49f3621ec1f72ae6d40c88866fbeb165c25810ea545b3f"
 metafile = true
 
 [[files]]
-file = "mods/wolf-armor-and-storage.toml"
-hash = "1b7d2b2fb9df8036f8b2ef925d3e0c0ec487659f3fb9b8bdf59e76e4bbe2491e"
+file = "mods/waystones.pw.toml"
+hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-caves.toml"
-hash = "a069f56b52056ab749888aeace2cb33a03c1dd01076c78330282ab27464640a2"
+file = "mods/waystones2waypoints.pw.toml"
+hash = "1fb81392a2537dbe3b309270b5551df15829a1400b7d2a2891c92a6787bd42e6"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-mineshafts-forge.toml"
-hash = "2859c2c2361539c91553242514d159bd35dd7e8a7109ee01752690fcf52bbb8b"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d322e3e9429342b45eb498871105394d38e5504755b8a2eed29b316d74da7c44"
 metafile = true
 
 [[files]]
-file = "mods/zombie-awareness.toml"
-hash = "5d1f4951f572a49d6f43fbc204e828124a807de254e1252ff261f188ee0e918b"
+file = "mods/xaeros-world-map.pw.toml"
+hash = "3fcc939267030c7d1ba512c676f961bfdcea53512842717364d676409c8ced6a"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "5f1a0124935353215fdc7027cba35bfce17039eb51b0b5c950dda2bb47ac83d8"
 
 [[files]]
-file = "optionsof.txt"
-hash = "6884a9e4e28e042cb4d13f8e7cc07249cb811b9cf6470e56ff21508983131271"
+file = "mods/yungs-better-caves.pw.toml"
+hash = "9b56c87a5c4a4086096082adef912aa826248ed2a1b3dec4259c16bbc4bf448c"
+metafile = true
 
 [[files]]
-file = "packwiz"
-hash = "fd4d9aa0d5bf00bdb99b34a55346a1b80be22064391d3b239cd1ea7ed84daaf3"
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "c9bc93209b1b68be06d722a27f49021ef593936d29e2f0f953eaf2d15d3c31cf"
+metafile = true
 
 [[files]]
-file = "servers.dat"
-hash = "5e6b0b5f38dab891c0c6df60babcd1961a0cc026f0e7039bc676fcc31fb05327"
+file = "mods/zombie-awareness.pw.toml"
+hash = "fbffa84ed0d57ad942937ef713879861947b882292d705e75d488e269383881e"
+metafile = true

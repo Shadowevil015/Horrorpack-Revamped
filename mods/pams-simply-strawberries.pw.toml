@@ -1,0 +1,13 @@
+name = "Pam's Simply Strawberries"
+filename = "Pam's Simply Strawberries 1.12.2 - 1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "2847803968"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2572121
+project-id = 295871

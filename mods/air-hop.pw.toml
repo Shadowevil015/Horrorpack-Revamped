@@ -1,0 +1,13 @@
+name = "Air Hop"
+filename = "AirHop-v1.2-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72a43a0880b1a5aa6f987aa6c5832f28abe08c7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3207118
+project-id = 323071
