@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "dfb2702febc2e315e727b1e0b66bc0cc8dd4d21f3ebc4dcd0516fbfe742d08cf"
+
+[[files]]
+file = "list.js"
+hash = "a949d8d031183e7674a0ee9bffed8793e20cc42d14fe7a0439c9dda1fa44ed84"
+
+[[files]]
 file = "mods/YARCF-0.14(1.12.2).jar"
 hash = "bb6cc50d46a2add252c66ff9320a7b6b79627d333f816fed98bde0ffc96930e2"
 
@@ -57,11 +65,6 @@ metafile = true
 [[files]]
 file = "mods/back-tools.pw.toml"
 hash = "c90c363c11ef9425833b52177cfea95a3492e59c456a12c82b045271f2ad5afd"
-metafile = true
-
-[[files]]
-file = "mods/basic-nether-ores.pw.toml"
-hash = "8b612919e7be2ab549cfb75a9403927127d9981b85e8bb06cc6ca20771fcde44"
 metafile = true
 
 [[files]]
@@ -535,11 +538,6 @@ hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
 
 [[files]]
-file = "mods/notenoughids.pw.toml"
-hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
-metafile = true
-
-[[files]]
 file = "mods/nothirium.pw.toml"
 hash = "64df10bdf6074fad460d08cab90950aecf391e73c8e72b90f3d76b174e7e9396"
 metafile = true
@@ -598,6 +596,10 @@ metafile = true
 file = "mods/placebo.pw.toml"
 hash = "1ee3519800370b5985d5a544ff6a27af2ad59b9874f1aae63bf061d694e0ca45"
 metafile = true
+
+[[files]]
+file = "mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
+hash = "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c"
 
 [[files]]
 file = "mods/projecte-integration.pw.toml"
