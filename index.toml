@@ -60,6 +60,11 @@ hash = "c90c363c11ef9425833b52177cfea95a3492e59c456a12c82b045271f2ad5afd"
 metafile = true
 
 [[files]]
+file = "mods/basic-nether-ores.pw.toml"
+hash = "8b612919e7be2ab549cfb75a9403927127d9981b85e8bb06cc6ca20771fcde44"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -135,6 +140,16 @@ hash = "203659158908b01fd5166eba5add66749ff5b205cf20b3f4eda0c247c35c1bd7"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "9efd22acd1fb9176b1511196a3c7ac792f63eea1619d5d9f0d57d000c38742ee"
+metafile = true
+
+[[files]]
+file = "mods/ceiling-torch.pw.toml"
+hash = "1ef4b8deee785005dba0f9f0ff3cfa188f17f3dd5ca740b095427113b2a654f2"
+metafile = true
+
+[[files]]
 file = "mods/chameleon.pw.toml"
 hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
 metafile = true
@@ -190,6 +205,21 @@ hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
 metafile = true
 
 [[files]]
+file = "mods/deadly-monsters-patched.pw.toml"
+hash = "0aca518607f4423298e96ba7bc564681b868ba4a45dcce683bced6f222a7dcc4"
+metafile = true
+
+[[files]]
+file = "mods/defiled-lands.pw.toml"
+hash = "cb867f963595029a35120c2f02434a6985fab555f6508d3e6521d4ed080d9566"
+metafile = true
+
+[[files]]
+file = "mods/dense-metals.pw.toml"
+hash = "4cf2bf8eb098dde8df008192dc5248512e627ce8f9d58ac97413824fb0773705"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "1911b6e62b70784ca4335fdf758d3439863f5e4eab446cddacb45f641624d285"
 metafile = true
@@ -242,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/extraplanets.pw.toml"
 hash = "f71ac7b38cb5f43c8f3bce12df374e3bdaab926d682e11ff71acfae5bb9a8cef"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "eafb0b5ea70aa40fd93e93331e0a4d59708b9a7502297a3ece67a3c83813f9a2"
 metafile = true
 
 [[files]]
@@ -327,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
@@ -455,6 +495,11 @@ hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "9b5bf9c25d25d6717b0dd14df42c1be23befebaad2f21052c0ae862b4a79704c"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "0c3f25faf7ef8560796d8746148f407501092ec9113126c8b1507a4de8b25c23"
 metafile = true
@@ -480,6 +525,11 @@ hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
 
 [[files]]
+file = "mods/nether-ores-plus.pw.toml"
+hash = "1612b67c2537bc17977bdc823b187c727e112987825665449f1b317777ea0a26"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
 metafile = true
@@ -492,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/nothirium.pw.toml"
 hash = "64df10bdf6074fad460d08cab90950aecf391e73c8e72b90f3d76b174e7e9396"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "8f442139fe8181f98f99ec06c4403993f33bcdd25a0af9c0c5061090ae5aaf87"
 metafile = true
 
 [[files]]
@@ -517,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/paragliders.pw.toml"
 hash = "9a3dd0058e3ffdc3a38824c5b97ded8ae5c29608b9038bb29da34b42380fc668"
+metafile = true
+
+[[files]]
+file = "mods/particle-culling.pw.toml"
+hash = "4731615e45979e1eee2e5439777e6390aba9b8d8bf11c4299723a1659bf5c115"
 metafile = true
 
 [[files]]
@@ -605,6 +665,11 @@ hash = "63ae091935fd273ca934c61cc982fc4c46306b7ed23bab6f99f7f697a7a1a0db"
 metafile = true
 
 [[files]]
+file = "mods/simple-gravel-ores.pw.toml"
+hash = "f404655142fd1117c846c7a50a96d4813e06a41944ef89400df1e0b028742ac5"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "2c9983c21bb1144e37850cf7b81983608b390e883ea2c3cffcd10d710ee8741e"
 metafile = true
@@ -625,6 +690,16 @@ hash = "fb1e9e5a89d18998b920526ee6c89a525cd6aa514a30a59ce15c16281433745b"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "d90c2d4bddf097f62aba762791a6fbf16d563faff4557ea3f22fa96c2d4cb7d8"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4d7fc629d8641bea1224202af027a858fc1ac7f3bb32f8f46df9b9c095db089f"
+metafile = true
+
+[[files]]
 file = "mods/surge.pw.toml"
 hash = "76364bbc6e5ab454bdbd76fa3502bdee90c0bb842f6b405ed60f1d33c76053ee"
 metafile = true
@@ -637,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/tesla-core-lib.pw.toml"
 hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "6f02ed33209dbab92a5fa1bdb77e286905b7cfd1b2d4fae825b9db04181d5493"
 metafile = true
 
 [[files]]
@@ -694,6 +774,11 @@ hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "54efeaa483626ec4679445ddeb94d256094eb0b23e66c0052f67d1c75cae3fee"
+metafile = true
+
+[[files]]
 file = "mods/traverse-reforged.pw.toml"
 hash = "c65124f713c2ae6de839a43fa2cea6b1e3c746e29753705a60606ec677b4ca01"
 metafile = true
@@ -706,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/tumbleweed.pw.toml"
 hash = "370bc2b9e294108b710ae6c6bcfde6c3d9257daf45e72a5bc327cef238024ee5"
+metafile = true
+
+[[files]]
+file = "mods/unlimited-chisel-works.pw.toml"
+hash = "3a41f19e492630f2256f127fcc977a4e10839ac79bfb8e7cf382f1d25de04655"
 metafile = true
 
 [[files]]
@@ -729,6 +819,11 @@ hash = "820a26e3ac70b64cef49f3621ec1f72ae6d40c88866fbeb165c25810ea545b3f"
 metafile = true
 
 [[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "70cb258de316aa6eadce0075f07760e43c4f093209acb83c8029137f09311784"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
 metafile = true
@@ -736,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/waystones2waypoints.pw.toml"
 hash = "1fb81392a2537dbe3b309270b5551df15829a1400b7d2a2891c92a6787bd42e6"
+metafile = true
+
+[[files]]
+file = "mods/wormhole.pw.toml"
+hash = "e7ab3cf38b21f5d96cceefc0909479b26703577ecc6162b837886ce9aec3e8d4"
 metafile = true
 
 [[files]]
@@ -756,6 +856,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.pw.toml"
 hash = "c9bc93209b1b68be06d722a27f49021ef593936d29e2f0f953eaf2d15d3c31cf"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "424ed75337a2834cae6e318d47c9c1d57b9e08ae4f1e10db09160b84da320ecd"
 metafile = true
 
 [[files]]
