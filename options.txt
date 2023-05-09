@@ -11,7 +11,7 @@ bobView:false
 anaglyph3d:false
 maxFps:100
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -89,7 +89,7 @@ key_of.key.zoom:46
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
 key_equipmentcompare.key.showTooltips:42
-key_key.staff_mode.desc:50
+key_key.staff_mode.desc:71
 key_key.use_cage.desc:49
 key_key.configurator_mode.desc:47
 key_key.configurator_filter.desc:48
@@ -102,7 +102,7 @@ key_key.erebus.glide:34
 key_key.erebus.poweredglide:35
 key_key.erebus.beetleram:19
 key_key.erebus.beetlemine:56
-key_Galaxy Map:50
+key_Galaxy Map:52
 key_Open Spaceship Inventory:33
 key_Toggle Sensor Goggles Mode:37
 key_key.fart.desc:34
@@ -155,7 +155,7 @@ key_nei.options.keys.gui.botania_corporea_request:0
 key_key.sethorse.desc:25
 key_key.callhorse.desc:47
 key_key.showstats.desc:37
-key_key.carry.desc:42
+key_key.carry.desc:184
 key_key.refinedstorage.focusSearchBar:15
 key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
 key_key.refinedstorage.openWirelessGrid:0
@@ -187,16 +187,16 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_Open Backpack:48
-key_mekanism.key.mode:50
+key_mekanism.key.mode:77
 key_mekanism.key.armorMode:34
 key_mekanism.key.feetMode:35
 key_mekanism.key.voice:22
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
-key_key.inventoryhud.toggle:23
+key_key.inventoryhud.toggle:81
 key_key.inventoryhud.openconfig:24
-key_key.inventoryhud.togglepot:-1
-key_key.inventoryhud.togglearm:-1
+key_key.inventoryhud.togglepot:80
+key_key.inventoryhud.togglearm:79
 key_key.inventoryhud.toggleall:-1
 key_invtweaks.key.sort:19
 key_Mo' Bends Menu:34
