@@ -1,0 +1,13 @@
+name = "Dense Ores"
+filename = "denseores-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1pigpywM/versions/D1rpOC4d/denseores-1.20.1-1.2.1.jar"
+hash-format = "sha1"
+hash = "e535a5c87b15231b3af493c4bc0602666c29afc7"
+
+[update]
+[update.modrinth]
+mod-id = "1pigpywM"
+version = "D1rpOC4d"

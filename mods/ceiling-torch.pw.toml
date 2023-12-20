@@ -1,13 +1,13 @@
 name = "Ceiling Torch"
-filename = "ceilingtorch-1.12.2-v1.3.1.jar"
+filename = "ceilingtorch-1.20.1-1.27.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/V1XQ9Kbq/versions/LJ4fgULv/ceilingtorch-1.20.1-1.27.jar"
 hash-format = "sha1"
-hash = "6986fe6c2489d60bd9df34a30f76d70a960b20c3"
-mode = "metadata:curseforge"
+hash = "33efa21e43de0387a0526800a4b514691365111a"
 
 [update]
-[update.curseforge]
-file-id = 2850462
-project-id = 326599
+[update.modrinth]
+mod-id = "V1XQ9Kbq"
+version = "LJ4fgULv"

@@ -1,0 +1,84 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				sheep = true
+				cow = true
+				pig = true
+				chicken = true
+				chest_minecart = true
+				item = true
+				bee = true
+				pillager = true
+				squid = true
+				tropical_fish = true
+				glow_squid = true
+				salmon = true
+				bat = true
+				cod = true
+				axolotl = true
+				zombie = true
+				creeper = true
+				skeleton = true
+				spider = true
+				enderman = true
+				vindicator = true
+				parrot = true
+				ocelot = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.scpo]
+				crying_child = true
+
+			[light_sources.settings.entities.mekanismadditions]
+				baby_creeper = true
+				baby_skeleton = true
+
+			[light_sources.settings.entities.vampirism]
+				advanced_vampire = true
+				vampire = true
+				advanced_vampire_imob = true
+				vampire_imob = true
+
+			[light_sources.settings.entities.rats]
+				rat = true
+
+			[light_sources.settings.entities.tropicraft]
+				chair = true
+				failgull = true
+				jaguar = true
+				white_lipped_peccary = true
+				hummingbird = true
+				tropiskelly = true
+				tapir = true
+				spider_monkey = true
+				iguana = true
+				v_monkey = true
+				fiddler_crab = true
+				tropibee = true
+				tree_frog = true
+				marlin = true
+				seahorse = true
+				tropicreeper = true
+				piranha = true
+				eagle_ray = true
+				cubera = true
+				starfish = true
+				man_o_war = true
+				hammerhead = true
+				sea_urchin = true
+				tropi_spider = true
+				dolphin = true
+				eih = true
+

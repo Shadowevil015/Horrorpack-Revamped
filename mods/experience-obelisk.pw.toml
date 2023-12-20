@@ -1,0 +1,13 @@
+name = "Experience Obelisk"
+filename = "Cognition-v2.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9GdSY2FZ/versions/KGQ9CXNX/Cognition-v2.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "b148bc100ee89fcc8e57f55e8760a36d586f98b5"
+
+[update]
+[update.modrinth]
+mod-id = "9GdSY2FZ"
+version = "KGQ9CXNX"

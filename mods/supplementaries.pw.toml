@@ -1,0 +1,13 @@
+name = "Supplementaries"
+filename = "supplementaries-1.20-2.7.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/Juu7Bpyo/supplementaries-1.20-2.7.12.jar"
+hash-format = "sha1"
+hash = "eb4cf493e53e00653b35c32ca7ff3196a47eb606"
+
+[update]
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "Juu7Bpyo"

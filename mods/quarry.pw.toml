@@ -1,0 +1,13 @@
+name = "Intelligence: Quarry"
+filename = "quarry-1.20.1-1.6.5r.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f6UuicRv/versions/fzoz5rx7/quarry-1.20.1-1.6.5r.jar"
+hash-format = "sha1"
+hash = "529c5ed1f7e4983d37e8bce500ea776b3e29579e"
+
+[update]
+[update.modrinth]
+mod-id = "f6UuicRv"
+version = "fzoz5rx7"

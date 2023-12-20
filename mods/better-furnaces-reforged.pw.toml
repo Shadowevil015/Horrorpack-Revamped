@@ -1,0 +1,13 @@
+name = "Better Furnaces Reforged"
+filename = "BetterFurnaces-1.20.1-1.1.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZXOYCX2A/versions/Juirz2Kg/BetterFurnaces-1.20.1-1.1.1-forge.jar"
+hash-format = "sha1"
+hash = "bcdd541971dbbe1bb5afd387e2451091e427e8a0"
+
+[update]
+[update.modrinth]
+mod-id = "ZXOYCX2A"
+version = "Juirz2Kg"

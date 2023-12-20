@@ -1,0 +1,13 @@
+name = "Large Fluid Tank"
+filename = "largefluidtank-forge-20.7.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uMlJQMHT/versions/g5W1Cdiq/largefluidtank-forge-20.7.5.jar"
+hash-format = "sha1"
+hash = "659f7b1ffc0ebf91ff177931d1aa6e6d20b90aac"
+
+[update]
+[update.modrinth]
+mod-id = "uMlJQMHT"
+version = "g5W1Cdiq"

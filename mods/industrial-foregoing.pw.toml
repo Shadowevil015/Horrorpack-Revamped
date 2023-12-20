@@ -1,13 +1,13 @@
 name = "Industrial Foregoing"
-filename = "industrialforegoing-1.12.2-1.12.13-237.jar"
+filename = "industrial-foregoing-1.20.1-3.5.10.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/lWxpUd04/versions/J3VuwToS/industrial-foregoing-1.20.1-3.5.10.jar"
 hash-format = "sha1"
-hash = "4f44934b392d7bf1713707a93b29006e98bd7cff"
-mode = "metadata:curseforge"
+hash = "16259814967e99256a6cdcb97707612fed5c0bca"
 
 [update]
-[update.curseforge]
-file-id = 2745321
-project-id = 266515
+[update.modrinth]
+mod-id = "lWxpUd04"
+version = "J3VuwToS"

@@ -1,0 +1,13 @@
+name = "Easy Villagers"
+filename = "easy-villagers-forge-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kaov2qgi/versions/DaybDNrF/easy-villagers-forge-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "a7bfeccc0e18f4155cf5da76ed2975578fd82822"
+
+[update]
+[update.modrinth]
+mod-id = "Kaov2qgi"
+version = "DaybDNrF"

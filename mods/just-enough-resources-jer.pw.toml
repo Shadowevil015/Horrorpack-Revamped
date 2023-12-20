@@ -1,13 +1,13 @@
 name = "Just Enough Resources (JER)"
-filename = "JustEnoughResources-1.12.2-0.9.3.203.jar"
+filename = "JustEnoughResources-1.20.1-1.4.0.238.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/uEfK2CXF/versions/g9Lo1Pgi/JustEnoughResources-1.20.1-1.4.0.238.jar"
 hash-format = "sha1"
-hash = "cabcc7f31532215a6dd7c884ae281b59e0a53e2c"
-mode = "metadata:curseforge"
+hash = "f4d7e3b2dc35948a7579baad1ffcb18437662465"
 
 [update]
-[update.curseforge]
-file-id = 4440935
-project-id = 240630
+[update.modrinth]
+mod-id = "uEfK2CXF"
+version = "g9Lo1Pgi"

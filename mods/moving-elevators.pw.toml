@@ -1,13 +1,13 @@
 name = "Moving Elevators"
-filename = "movingelevators-1.4.2-forge-mc1.12.jar"
+filename = "movingelevators-1.4.5-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/9KZOe6HD/versions/GKpSTDg8/movingelevators-1.4.5-forge-mc1.20.1.jar"
 hash-format = "sha1"
-hash = "def601b0f0b26fa0e72a8f99c3413e30abe82138"
-mode = "metadata:curseforge"
+hash = "61214884a691eff1d9a18f7810ea3d40991527be"
 
 [update]
-[update.curseforge]
-file-id = 4515523
-project-id = 373051
+[update.modrinth]
+mod-id = "9KZOe6HD"
+version = "GKpSTDg8"
