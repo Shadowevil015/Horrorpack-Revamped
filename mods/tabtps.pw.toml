@@ -1,0 +1,13 @@
+name = "TabTPS"
+filename = "tabtps-neoforge-mc1.21.1-1.3.25.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/cUhi3iB2/versions/JkFbz8lE/tabtps-neoforge-mc1.21.1-1.3.25.jar"
+hash-format = "sha1"
+hash = "230eeb9a43249aa2df98ba2a0208a204ef25eeee"
+
+[update]
+[update.modrinth]
+mod-id = "cUhi3iB2"
+version = "JkFbz8lE"

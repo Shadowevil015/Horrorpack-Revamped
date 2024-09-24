@@ -1,0 +1,13 @@
+name = "Hang Glider"
+filename = "HangGlider-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uHWrqYcS/versions/nLff2PaZ/HangGlider-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha1"
+hash = "55e6bbc9867065d182e9b752e9102622f6c35df2"
+
+[update]
+[update.modrinth]
+mod-id = "uHWrqYcS"
+version = "nLff2PaZ"

@@ -1,0 +1,13 @@
+name = "Inventory Essentials"
+filename = "inventoryessentials-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/xlKgFkAZ/inventoryessentials-neoforge-1.21.1-21.1.1.jar"
+hash-format = "sha1"
+hash = "7cfdc97a3d98b8a7a554a6aa6c9f381cf86987f0"
+
+[update]
+[update.modrinth]
+mod-id = "Boon8xwi"
+version = "xlKgFkAZ"

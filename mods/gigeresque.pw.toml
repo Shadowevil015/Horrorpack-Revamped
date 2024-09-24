@@ -1,0 +1,13 @@
+name = "Gigeresque"
+filename = "gigeresque-neoforge-1.21.1-0.7.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2kXK3iBI/versions/TCGMFtgk/gigeresque-neoforge-1.21.1-0.7.5.jar"
+hash-format = "sha1"
+hash = "894ddcf69189768ab5e0c4fa091f43d0b35ab6fe"
+
+[update]
+[update.modrinth]
+mod-id = "2kXK3iBI"
+version = "TCGMFtgk"

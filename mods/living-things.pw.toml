@@ -1,0 +1,13 @@
+name = "Living Things"
+filename = "livingthings-neoforge-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UKDLi1GJ/versions/KMplVQlN/livingthings-neoforge-1.21.1-2.1.0.jar"
+hash-format = "sha1"
+hash = "206d043ae6463606f02121719fb766e9f7aef66d"
+
+[update]
+[update.modrinth]
+mod-id = "UKDLi1GJ"
+version = "KMplVQlN"

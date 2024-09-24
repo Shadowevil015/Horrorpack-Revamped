@@ -1,0 +1,13 @@
+name = "Polymorph"
+filename = "polymorph-neoforge-1.0.6+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/3WDycUwh/polymorph-neoforge-1.0.6%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "3df5a228a7fdc903b150df5f8d5c5f7b8807624e"
+
+[update]
+[update.modrinth]
+mod-id = "tagwiZkJ"
+version = "3WDycUwh"

@@ -1,0 +1,13 @@
+name = "Diagonal Fences"
+filename = "DiagonalFences-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IKARgflD/versions/T9uqSXDp/DiagonalFences-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha1"
+hash = "1fe4383dec1950581f2a79322b729eb5ed5655e8"
+
+[update]
+[update.modrinth]
+mod-id = "IKARgflD"
+version = "T9uqSXDp"

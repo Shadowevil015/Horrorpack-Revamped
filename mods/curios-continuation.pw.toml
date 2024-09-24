@@ -1,0 +1,13 @@
+name = "Curios API Continuation"
+filename = "curios-neoforge-9.0.11+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BaqCltvf/versions/IjNxByYs/curios-neoforge-9.0.11%2B1.21.jar"
+hash-format = "sha1"
+hash = "cf17c1b6f3eee7c4ac69df914d769d3321b8b31b"
+
+[update]
+[update.modrinth]
+mod-id = "BaqCltvf"
+version = "IjNxByYs"

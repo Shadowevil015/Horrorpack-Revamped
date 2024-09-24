@@ -1,0 +1,13 @@
+name = "Ultimate Plane Mod"
+filename = "plane-neoforge-1.21.1-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qLDTK94S/versions/cBje7QZ8/plane-neoforge-1.21.1-1.0.10.jar"
+hash-format = "sha1"
+hash = "cc9dae41d961af59b9ebe5481d4f004f0825fed3"
+
+[update]
+[update.modrinth]
+mod-id = "qLDTK94S"
+version = "cBje7QZ8"

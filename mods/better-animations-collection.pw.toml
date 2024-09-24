@@ -1,0 +1,13 @@
+name = "Better Animations Collection"
+filename = "BetterAnimationsCollection-v21.1.0-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OoOVj3J3/versions/tlFY9zBb/BetterAnimationsCollection-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha1"
+hash = "90f3275abefbe495a5315ed3097150dd35408d5c"
+
+[update]
+[update.modrinth]
+mod-id = "OoOVj3J3"
+version = "tlFY9zBb"

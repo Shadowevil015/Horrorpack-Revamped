@@ -1,0 +1,13 @@
+name = "Moving Elevators"
+filename = "movingelevators-1.4.8-neoforge-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9KZOe6HD/versions/Mk8IhtiS/movingelevators-1.4.8-neoforge-mc1.21.jar"
+hash-format = "sha1"
+hash = "cf04d0be5e6d60d7cfb2707ee45e957e97fb093c"
+
+[update]
+[update.modrinth]
+mod-id = "9KZOe6HD"
+version = "Mk8IhtiS"

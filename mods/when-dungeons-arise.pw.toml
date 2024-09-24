@@ -1,0 +1,13 @@
+name = "When Dungeons Arise"
+filename = "DungeonsArise-1.21.x-2.1.60-release.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8DfbfASn/versions/y3YlWAEi/DungeonsArise-1.21.x-2.1.60-release.jar"
+hash-format = "sha1"
+hash = "73fe46960310810b2792b508bf67f29e6c47095d"
+
+[update]
+[update.modrinth]
+mod-id = "8DfbfASn"
+version = "y3YlWAEi"

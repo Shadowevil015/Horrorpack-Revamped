@@ -1,0 +1,13 @@
+name = "Cursed Earth Returns"
+filename = "cursedearthreturns-1.21-neoforge-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d072239677357247b0e613e4972becb67d8dd35f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5508832
+project-id = 980520

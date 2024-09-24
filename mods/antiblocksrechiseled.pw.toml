@@ -1,0 +1,13 @@
+name = "AntiBlocksReChiseled"
+filename = "antiblocksrechiseled-neo-0.10.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLWeFJiL/versions/Ypu2rJge/antiblocksrechiseled-neo-0.10.3.jar"
+hash-format = "sha1"
+hash = "dd84a5e8b82bd0d592e5b17ded2ec6efe8c3c927"
+
+[update]
+[update.modrinth]
+mod-id = "uLWeFJiL"
+version = "Ypu2rJge"

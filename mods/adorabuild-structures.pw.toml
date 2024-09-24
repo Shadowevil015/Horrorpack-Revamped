@@ -1,0 +1,13 @@
+name = "AdoraBuild: Structures"
+filename = "adorabuild-structures-2.8.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYlnn25U/versions/UMFAiTAs/adorabuild-structures-2.8.0-neoforge-1.21.1.jar"
+hash-format = "sha1"
+hash = "3ed1ebab0d4554e73a7c6e34b8f0d769a9b8c0a6"
+
+[update]
+[update.modrinth]
+mod-id = "rYlnn25U"
+version = "UMFAiTAs"

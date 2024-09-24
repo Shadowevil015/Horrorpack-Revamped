@@ -1,0 +1,13 @@
+name = "Crafting Tweaks"
+filename = "craftingtweaks-neoforge-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/A1ed7hgc/craftingtweaks-neoforge-1.21.1-21.1.2.jar"
+hash-format = "sha1"
+hash = "4370009e9da3104535188c9fe515c3ef1fedde8a"
+
+[update]
+[update.modrinth]
+mod-id = "DMu0oBKf"
+version = "A1ed7hgc"

@@ -1,0 +1,13 @@
+name = "Deeper and Darker"
+filename = "deeperdarker-neoforge-1.21-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fnAffV0n/versions/58uMydLe/deeperdarker-neoforge-1.21-1.3.1.jar"
+hash-format = "sha1"
+hash = "e2b523fc7958e807a4e96eac7723824f953f6613"
+
+[update]
+[update.modrinth]
+mod-id = "fnAffV0n"
+version = "58uMydLe"

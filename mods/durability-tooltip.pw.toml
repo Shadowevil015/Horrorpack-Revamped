@@ -1,0 +1,13 @@
+name = "Durability Tooltip"
+filename = "durabilitytooltip-1.1.5-neoforge-mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/smUP7V3r/versions/XKgxJLQh/durabilitytooltip-1.1.5-neoforge-mc1.21.jar"
+hash-format = "sha1"
+hash = "2a2f3ad2815d9d394aeb17709e4bc3f4468a4284"
+
+[update]
+[update.modrinth]
+mod-id = "smUP7V3r"
+version = "XKgxJLQh"

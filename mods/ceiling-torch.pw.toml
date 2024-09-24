@@ -1,0 +1,13 @@
+name = "Ceiling Torch"
+filename = "ceilingtorch-1.21-1.30.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V1XQ9Kbq/versions/XMB1FZu3/ceilingtorch-1.21-1.30.jar"
+hash-format = "sha1"
+hash = "b4fb2a3d077ba9ecf0cdc3af183e2c7342e0d305"
+
+[update]
+[update.modrinth]
+mod-id = "V1XQ9Kbq"
+version = "XMB1FZu3"

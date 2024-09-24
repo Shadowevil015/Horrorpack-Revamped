@@ -1,0 +1,13 @@
+name = "TrashSlot"
+filename = "trashslot-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/zm1jBGGN/trashslot-neoforge-1.21.1-21.1.1.jar"
+hash-format = "sha1"
+hash = "f701ce3b897ca8485eb28697f0690c44492cea46"
+
+[update]
+[update.modrinth]
+mod-id = "vRYk0bv7"
+version = "zm1jBGGN"

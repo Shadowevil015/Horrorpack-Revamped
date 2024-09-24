@@ -1,0 +1,13 @@
+name = "Macaw's Fences - Biomes O' Plenty"
+filename = "mcwfencesbop-neoforged-1.21-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tanquv9C/versions/ohYi5Arx/mcwfencesbop-neoforged-1.21-1.1.jar"
+hash-format = "sha1"
+hash = "c721d4fca703aef92d2adca7fa1562ac1de59685"
+
+[update]
+[update.modrinth]
+mod-id = "Tanquv9C"
+version = "ohYi5Arx"

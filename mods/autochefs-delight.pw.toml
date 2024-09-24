@@ -1,0 +1,13 @@
+name = "Autochef's Delight"
+filename = "AutochefsDelight-1.21-NeoForge-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HY0PMpa3/versions/khM31HWN/AutochefsDelight-1.21-NeoForge-2.0.0.jar"
+hash-format = "sha1"
+hash = "0e880f8cabf2161f6a504bc48a9e8cd85b49c5b8"
+
+[update]
+[update.modrinth]
+mod-id = "HY0PMpa3"
+version = "khM31HWN"

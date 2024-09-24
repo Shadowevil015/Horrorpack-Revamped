@@ -1,0 +1,13 @@
+name = "Colossal Chests"
+filename = "ColossalChests-1.21-neoforge-1.8.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "486949b32c6055d58647f1d01a92d03d3bdb3ba6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5537801
+project-id = 237875

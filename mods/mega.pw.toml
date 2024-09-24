@@ -1,0 +1,13 @@
+name = "MEGA Cells"
+filename = "megacells-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/QBZorwdy/megacells-4.0.2.jar"
+hash-format = "sha1"
+hash = "efc46c4f32a16df01ca8042b2202051c6406e0bb"
+
+[update]
+[update.modrinth]
+mod-id = "jjuIRIVr"
+version = "QBZorwdy"

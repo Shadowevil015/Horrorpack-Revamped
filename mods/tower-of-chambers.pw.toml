@@ -1,0 +1,13 @@
+name = "Tower of Chambers"
+filename = "tower_of_chambers-22.34.cp-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "776df4793a36f987efcb7de7cf92187e7ca1d922"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5749334
+project-id = 1096777
