@@ -1,13 +1,13 @@
 name = "Almost Unified"
-filename = "almostunified-neoforge-1.21.1-1.0.0.jar"
+filename = "almostunified-neoforge-1.21.1-1.1.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/KmjNUqhw/almostunified-neoforge-1.21.1-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/1PLh0lw3/almostunified-neoforge-1.21.1-1.1.0.jar"
 hash-format = "sha1"
-hash = "ab8cf372aad59b2e072f411057d2c5598b18d405"
+hash = "3b4e5614fbeb762c5ab912f33e7d3d9a23db9e38"
 
 [update]
 [update.modrinth]
 mod-id = "sdaSaQEz"
-version = "KmjNUqhw"
+version = "1PLh0lw3"

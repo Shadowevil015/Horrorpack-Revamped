@@ -1,13 +1,13 @@
 name = "JAOPCA"
-filename = "JAOPCA-1.21.1-5.0.2.3.jar"
+filename = "JAOPCA-1.21.1-5.0.3.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P48mHi2j/versions/7rGM8AMi/JAOPCA-1.21.1-5.0.2.3.jar"
+url = "https://cdn.modrinth.com/data/P48mHi2j/versions/oQ153PD2/JAOPCA-1.21.1-5.0.3.4.jar"
 hash-format = "sha1"
-hash = "fa483487109568fae5e8cb0b1ac81430f51836b8"
+hash = "b9d6a2542127c3543b41333981336b2b57a5e31b"
 
 [update]
 [update.modrinth]
 mod-id = "P48mHi2j"
-version = "7rGM8AMi"
+version = "oQ153PD2"

@@ -1,13 +1,13 @@
 name = "Enchantments Encore"
-filename = "enchantments-encore-1.7e.jar"
+filename = "enchantments-encore-1.7f.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GD1QoExk/versions/Y39UZ8aK/enchantments-encore-1.7e.jar"
+url = "https://cdn.modrinth.com/data/GD1QoExk/versions/8LZRDYxb/enchantments-encore-1.7f.jar"
 hash-format = "sha1"
-hash = "83c40a67828a0e24c3299b75a4b37a16a6365c21"
+hash = "da1b515f091563aed83fc727acdf28b907a3b2e2"
 
 [update]
 [update.modrinth]
 mod-id = "GD1QoExk"
-version = "Y39UZ8aK"
+version = "8LZRDYxb"
