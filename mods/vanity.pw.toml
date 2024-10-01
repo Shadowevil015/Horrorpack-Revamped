@@ -1,13 +1,13 @@
 name = "VanitySlots"
-filename = "vanityslots-neoforge-1.21.1-2.0.0.jar"
+filename = "vanityslots-neoforge-1.21.1-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YTVu0oG8/versions/tMMYT2Uj/vanityslots-neoforge-1.21.1-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/YTVu0oG8/versions/xWfEA0yC/vanityslots-neoforge-1.21.1-2.0.1.jar"
 hash-format = "sha1"
-hash = "4c5415e1550da37eb221760e1a5114c2ab959da7"
+hash = "46049cb99a2223950cd690af90efdd6f390d801c"
 
 [update]
 [update.modrinth]
 mod-id = "YTVu0oG8"
-version = "tMMYT2Uj"
+version = "xWfEA0yC"

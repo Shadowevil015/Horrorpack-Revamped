@@ -1,13 +1,13 @@
 name = "Ultimate Plane Mod"
-filename = "plane-neoforge-1.21.1-1.3.2.jar"
+filename = "plane-neoforge-1.21.1-1.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qLDTK94S/versions/clb2MfWC/plane-neoforge-1.21.1-1.3.2.jar"
+url = "https://cdn.modrinth.com/data/qLDTK94S/versions/soJVbUQg/plane-neoforge-1.21.1-1.4.1.jar"
 hash-format = "sha1"
-hash = "1bb88c161a94c16d5600cd5b371aafd85d42f5dc"
+hash = "f786c34a58cb294352c6c566ae442178bf500196"
 
 [update]
 [update.modrinth]
 mod-id = "qLDTK94S"
-version = "clb2MfWC"
+version = "soJVbUQg"

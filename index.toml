@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
-hash = "a74b8eb4dc13ee7f526fcb100a5f4f23617a5c912a316b6968f3f19bc255cbdc"
+hash = "8d9d2bec845ad0fad61b6e57b9cdf7808524d4079cae019b926d277910337f14"
 metafile = true
 
 [[files]]
@@ -56,11 +56,6 @@ hash = "2fa511f77f989e5650e7373bf5bd8ec11b78b7864e6e27a7aff40ffb70b43739"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "595245a2c2f29a66ecbef5e28dd4fdcbe53504ad9c2a306be7b3639294a86639"
-metafile = true
-
-[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "59f7c0978c883de1836fcd785ccb80970482b9a4548892e12dbf1c2eeb5cf72b"
 metafile = true
@@ -82,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "d9862583bf8f3ca73f09ef9487ade3e7460b8e2aa62860fa921969545a774dcf"
+hash = "1f2319cb4b47f759308a9fb60ae8e291e95de737aa928a0dc06c31cf0260eec8"
 metafile = true
 
 [[files]]
@@ -287,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/cucumber.pw.toml"
-hash = "aff73d9322eb85b491bfa94d355d2e51255e55e4477af0ab6f66011b0dc6259a"
+hash = "b482bcf463a5cbd68d9495179bd7314ace52f6672df77b01bf14b5d88eeba736"
 metafile = true
 
 [[files]]
@@ -333,11 +328,6 @@ metafile = true
 [[files]]
 file = "mods/distant-friends.pw.toml"
 hash = "dd20cf6aec7a3a0618fcdd5cb317ff5098745f81f2d9eb0e5a3c0439538e7d12"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
 metafile = true
 
 [[files]]
@@ -826,11 +816,6 @@ hash = "deca6c4c0ff9901178dd38dac77e9120218bf14c4195154d6b51d4ee02541609"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "9e4376106f6c4b1d16a9006510e2e67bf6fa9bc8af842d0cb5ad560616b0b605"
-metafile = true
-
-[[files]]
 file = "mods/more-beautiful-torches.pw.toml"
 hash = "f4460c6d595ba05a49289a7855dcf5847ac44a7c11835395de505ee1f5f852af"
 metafile = true
@@ -867,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agradditions.pw.toml"
-hash = "44f26540bf6511c00117d518f714a5ce1abc188cadf2c32127ff4730b534cfe2"
+hash = "e4bb0133e77066f9a0d30dcf54235e7880f02bcdb466ae884e9a7516695e6721"
 metafile = true
 
 [[files]]
@@ -1166,11 +1151,6 @@ hash = "8d3528eb059d58374bd2a323ce63dc8b16dbac0765cb0c424642798c88d536f7"
 metafile = true
 
 [[files]]
-file = "mods/the-pure-suffering-mod.pw.toml"
-hash = "e0008eb66d56ee26751367ab2603950f5184d1c9ce677dd6af988f4fa8d0e7fd"
-metafile = true
-
-[[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "b7dd0ae183161ee1f079870260ae968701f09641e46993cc512b1b8a01242092"
 metafile = true
@@ -1217,7 +1197,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultimate-plane-mod.pw.toml"
-hash = "8e9768855bac66aeeeb65d6bf771c3885298c2cd9ca5808d06ab3ef89a4f7df4"
+hash = "a24134f81866e0a4f265c25d021620f7b84d14791c8cbdb4610351d4c02adaef"
 metafile = true
 
 [[files]]
@@ -1231,13 +1211,8 @@ hash = "f616edf4cf92bcb6442e41c6edf6fe8cd1a13394ea6b4de2bc35f99d99156ecf"
 metafile = true
 
 [[files]]
-file = "mods/vampirism.pw.toml"
-hash = "838dfe432f933c1a266cb05447c9309b534a9db9ac5bb4b659056857fa5ac645"
-metafile = true
-
-[[files]]
 file = "mods/vanity.pw.toml"
-hash = "8647da7b4e7e151d11302adf90336ede4851426c7114e095435923b2a0b65e9f"
+hash = "0945bae1cf0ab713686007b7eaea7f1fd97703524e230b0f962799ece7f361c4"
 metafile = true
 
 [[files]]
@@ -1253,11 +1228,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "1d3021f533e666314372344da99048cdbc6ff70819f0a937e10177b61226736b"
-metafile = true
-
-[[files]]
-file = "mods/werewolves.pw.toml"
-hash = "0f08e842fba0d831cc02d834bf45764767c730fd1133fb25ee89d6e1901fde2c"
 metafile = true
 
 [[files]]
