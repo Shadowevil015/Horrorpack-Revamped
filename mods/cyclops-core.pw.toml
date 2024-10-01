@@ -1,13 +1,13 @@
 name = "Cyclops Core"
-filename = "cyclopscore-1.21.1-neoforge-1.23.0-601.jar"
+filename = "cyclopscore-1.21.1-neoforge-1.24.0-617.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/w9RMsNH0/cyclopscore-1.21.1-neoforge-1.23.0-601.jar"
+url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/8HlilxAz/cyclopscore-1.21.1-neoforge-1.24.0-617.jar"
 hash-format = "sha1"
-hash = "281ca2e15dd5715147e6b92e878a6ee465608a0c"
+hash = "6a9085d1c4fa9c0f44101ec4c571d45021553bde"
 
 [update]
 [update.modrinth]
 mod-id = "Z9DM0LJ4"
-version = "w9RMsNH0"
+version = "8HlilxAz"

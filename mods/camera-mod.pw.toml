@@ -1,13 +1,13 @@
 name = "Camera Mod"
-filename = "camera-neoforge-1.21.1-1.0.17.jar"
+filename = "camera-neoforge-1.21.1-1.0.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oiuNWinn/versions/L6gdCoaZ/camera-neoforge-1.21.1-1.0.17.jar"
+url = "https://cdn.modrinth.com/data/oiuNWinn/versions/JOzlvflx/camera-neoforge-1.21.1-1.0.18.jar"
 hash-format = "sha1"
-hash = "d0e75531a4e85d661dc8e00efd4da7bda788b5af"
+hash = "35129c5769be13f8239079bf9a86db3dafcd330f"
 
 [update]
 [update.modrinth]
 mod-id = "oiuNWinn"
-version = "L6gdCoaZ"
+version = "JOzlvflx"

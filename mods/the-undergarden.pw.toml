@@ -1,13 +1,13 @@
 name = "The Undergarden"
-filename = "The_Undergarden-1.21.1-0.8.21.jar"
+filename = "The_Undergarden-1.21.1-0.8.22.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f9a6c0fc439bbb64b04d0b6044503a411b9a3515"
+hash = "2dee8e1914332fcea1c98e67ae802e54d042671d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5651032
+file-id = 5769852
 project-id = 379849
