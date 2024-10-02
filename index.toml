@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
-hash = "730ec27a1ecd5c1db7caafc89ccc5302ad0bbdc0d13a3e67093f68e0e7263c58"
+hash = "71c53ede130dd1fdb98222d9e97682e284e7b8276c37aeab2b83ae45bf1ce64b"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "869c74402181a517d7c6f9f437c451d5f9e5de407c6d965c95f9012d5160d0c4"
+hash = "e108ffe8e028f92c0f1616ac3c23188987ad975626f2dbe532069b61a780819e"
 metafile = true
 
 [[files]]
@@ -857,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
-hash = "f399100c0ae1f14ed9444346b0b78ce6127e54fb726ee9f636bd89bd447c7e13"
+hash = "f7733b2dd2b64aba28d2af0130d34dc13f5054f03c3a6059263052c40d1888e9"
 metafile = true
 
 [[files]]
@@ -1151,6 +1151,11 @@ hash = "8d3528eb059d58374bd2a323ce63dc8b16dbac0765cb0c424642798c88d536f7"
 metafile = true
 
 [[files]]
+file = "mods/the-pure-suffering-mod.pw.toml"
+hash = "acbc62388b1e57fdbde2b7f6a30945db936e0edd9a63d1c35b3ad0b6e2df6a3f"
+metafile = true
+
+[[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "b7dd0ae183161ee1f079870260ae968701f09641e46993cc512b1b8a01242092"
 metafile = true
@@ -1187,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/ubes-delight.pw.toml"
-hash = "6cf710ef133262fe17ad7be03b9363bd6d1c1c95da2a084c203cfe816d2197a2"
+hash = "d4a8caf7fc2b8d048f62409f7c1b77f6cf46b352d1399b00cb207ba9762c89a9"
 metafile = true
 
 [[files]]

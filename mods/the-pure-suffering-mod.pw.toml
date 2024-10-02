@@ -1,0 +1,13 @@
+name = "The Pure Suffering Mod"
+filename = "PureSuffering-1.21.1-1.6.5.5B.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "684b8c82b109fa8560b36a36b602c1c428055dec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5775494
+project-id = 504538
