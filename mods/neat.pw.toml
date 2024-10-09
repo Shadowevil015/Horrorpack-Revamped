@@ -1,13 +1,13 @@
 name = "Neat"
-filename = "Neat-1.21-38-NEOFORGE.jar"
+filename = "Neat-1.21-39-NEOFORGE.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ins7SzzR/versions/AGpD9WkV/Neat-1.21-38-NEOFORGE.jar"
+url = "https://cdn.modrinth.com/data/Ins7SzzR/versions/VXOfoDuU/Neat-1.21-39-NEOFORGE.jar"
 hash-format = "sha1"
-hash = "eb9b2577c51283107aafdcbc83dcfb1d80bd86f6"
+hash = "376595beb4e7c5b541aded9cc92ee08162fd83cb"
 
 [update]
 [update.modrinth]
 mod-id = "Ins7SzzR"
-version = "AGpD9WkV"
+version = "VXOfoDuU"

@@ -3,11 +3,11 @@ filename = "camera-neoforge-1.21.1-1.0.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oiuNWinn/versions/JOzlvflx/camera-neoforge-1.21.1-1.0.18.jar"
+url = "https://cdn.modrinth.com/data/oiuNWinn/versions/VeXLWAUJ/camera-neoforge-1.21.1-1.0.18.jar"
 hash-format = "sha1"
-hash = "35129c5769be13f8239079bf9a86db3dafcd330f"
+hash = "ab914c14d68ac6c0a58ce366737cc12483e5e61b"
 
 [update]
 [update.modrinth]
 mod-id = "oiuNWinn"
-version = "JOzlvflx"
+version = "VeXLWAUJ"
